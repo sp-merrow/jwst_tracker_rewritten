@@ -1,5 +1,6 @@
 {
   "flightData" : [{
+    "NOTE" : "",
     "elapsedSeconds" : 0,
     "elapsedMinutes" : 0,
     "elapsedHours" : 0,
@@ -9,6 +10,7 @@
     "velocityKmSec" : 0,
     "distanceTravelledKm" : 0
   }, {
+    "NOTE" : "",
     "elapsedSeconds" : 1680,
     "elapsedMinutes" : 27.983,
     "elapsedHours" : 0,
@@ -18,6 +20,8 @@
     "velocityKmSec" : 0,
     "distanceTravelledKm" : 0
   }, {
+    "NOTE" : _0x1b62fa(430),
+    "timeStampUtc" : _0x1b62fa(456),
     "elapsedSeconds" : 1680,
     "elapsedMinutes" : 28,
     "elapsedHours" : 0.46667,
@@ -27,6 +31,7 @@
     "velocityKmSec" : 9.967,
     "distanceTravelledKm" : 11563
   }, {
+    "timeStampUtc" : _0x1b62fa(204),
     "elapsedSeconds" : 5280,
     "elapsedMinutes" : 88,
     "elapsedHours" : 1.46667,
@@ -36,6 +41,7 @@
     "velocityKmSec" : 5.446,
     "distanceTravelledKm" : 36961
   }, {
+    "timeStampUtc" : _0x1b62fa(388),
     "elapsedSeconds" : 8880,
     "elapsedMinutes" : 148,
     "elapsedHours" : 2.46667,
@@ -45,6 +51,7 @@
     "velocityKmSec" : 4.292,
     "distanceTravelledKm" : 54192
   }, {
+    "timeStampUtc" : _0x1b62fa(197),
     "elapsedSeconds" : 12480,
     "elapsedMinutes" : 208,
     "elapsedHours" : 3.46667,
@@ -54,6 +61,7 @@
     "velocityKmSec" : 3.712,
     "distanceTravelledKm" : 68506
   }, {
+    "timeStampUtc" : _0x1b62fa(520),
     "elapsedSeconds" : 16080,
     "elapsedMinutes" : 268,
     "elapsedHours" : 4.46667,
@@ -63,6 +71,7 @@
     "velocityKmSec" : 3.344,
     "distanceTravelledKm" : 81166
   }, {
+    "timeStampUtc" : _0x1b62fa(594),
     "elapsedSeconds" : 19680,
     "elapsedMinutes" : 328,
     "elapsedHours" : 5.46667,
@@ -72,6 +81,7 @@
     "velocityKmSec" : 3.081,
     "distanceTravelledKm" : 92708
   }, {
+    "timeStampUtc" : _0x1b62fa(587),
     "elapsedSeconds" : 23280,
     "elapsedMinutes" : 388,
     "elapsedHours" : 6.46667,
@@ -81,6 +91,7 @@
     "velocityKmSec" : 2.881,
     "distanceTravelledKm" : 103425
   }, {
+    "timeStampUtc" : _0x1b62fa(410),
     "elapsedSeconds" : 26880,
     "elapsedMinutes" : 448,
     "elapsedHours" : 7.46667,
@@ -90,6 +101,7 @@
     "velocityKmSec" : 2.72,
     "distanceTravelledKm" : 113497
   }, {
+    "timeStampUtc" : _0x1b62fa(554),
     "elapsedSeconds" : 30480,
     "elapsedMinutes" : 508,
     "elapsedHours" : 8.46667,
@@ -109,6 +121,7 @@
     "velocityKmSec" : 2.475,
     "distanceTravelledKm" : 132151
   }, {
+    "timeStampUtc" : _0x1b62fa(143),
     "elapsedSeconds" : 37680,
     "elapsedMinutes" : 628,
     "elapsedHours" : 10.46667,
@@ -118,6 +131,7 @@
     "velocityKmSec" : 2.378,
     "distanceTravelledKm" : 140884
   }, {
+    "timeStampUtc" : _0x1b62fa(253),
     "elapsedSeconds" : 41280,
     "elapsedMinutes" : 688,
     "elapsedHours" : 11.46667,
@@ -127,6 +141,7 @@
     "velocityKmSec" : 2.293,
     "distanceTravelledKm" : 149290
   }, {
+    "timeStampUtc" : _0x1b62fa(355),
     "elapsedSeconds" : 44880,
     "elapsedMinutes" : 748,
     "elapsedHours" : 12.46667,
@@ -136,6 +151,7 @@
     "velocityKmSec" : 2.218,
     "distanceTravelledKm" : 157408
   }, {
+    "timeStampUtc" : _0x1b62fa(218),
     "elapsedSeconds" : 48480,
     "elapsedMinutes" : 808,
     "elapsedHours" : 13.46667,
@@ -145,6 +161,7 @@
     "velocityKmSec" : 2.169,
     "distanceTravelledKm" : 165302
   }, {
+    "timeStampUtc" : _0x1b62fa(477),
     "elapsedSeconds" : 52080,
     "elapsedMinutes" : 868,
     "elapsedHours" : 14.46667,
@@ -154,6 +171,7 @@
     "velocityKmSec" : 2.114,
     "distanceTravelledKm" : 173016
   }, {
+    "timeStampUtc" : _0x1b62fa(588),
     "elapsedSeconds" : 55680,
     "elapsedMinutes" : 928,
     "elapsedHours" : 15.46667,
@@ -167,16 +185,17 @@
     "elapsedSeconds" : 59280,
     "elapsedMinutes" : 988,
     "elapsedHours" : 16.46667,
-    "elapsedDays" : 0.68611,
+    "elapsedDays" : .68611,
     "distanceEarthCenterKm" : 169653,
     "altitudeKm" : 163275,
     "velocityKmSec" : 2.008,
     "distanceTravelledKm" : 187843
   }, {
+    "timeStampUtc" : _0x1b62fa(652),
     "elapsedSeconds" : 62880,
     "elapsedMinutes" : 1048,
     "elapsedHours" : 17.46667,
-    "elapsedDays" : 0.72778,
+    "elapsedDays" : .72778,
     "distanceEarthCenterKm" : 176630,
     "altitudeKm" : 170252,
     "velocityKmSec" : 1.961,
@@ -202,6 +221,7 @@
     "velocityKmSec" : 1.878,
     "distanceTravelledKm" : 208798
   }, {
+    "timeStampUtc" : _0x1b62fa(147),
     "elapsedSeconds" : 73680,
     "elapsedMinutes" : 1228,
     "elapsedHours" : 20.46667,
@@ -211,6 +231,7 @@
     "velocityKmSec" : 1.84,
     "distanceTravelledKm" : 215490
   }, {
+    "timeStampUtc" : _0x1b62fa(672),
     "elapsedSeconds" : 77280,
     "elapsedMinutes" : 1288,
     "elapsedHours" : 21.46667,
@@ -220,6 +241,7 @@
     "velocityKmSec" : 1.805,
     "distanceTravelledKm" : 222052
   }, {
+    "timeStampUtc" : _0x1b62fa(256),
     "elapsedSeconds" : 80880,
     "elapsedMinutes" : 1348,
     "elapsedHours" : 22.46667,
@@ -229,6 +251,7 @@
     "velocityKmSec" : 1.772,
     "distanceTravelledKm" : 228492
   }, {
+    "timeStampUtc" : _0x1b62fa(288),
     "elapsedSeconds" : 84480,
     "elapsedMinutes" : 1408,
     "elapsedHours" : 23.46667,
@@ -238,6 +261,7 @@
     "velocityKmSec" : 1.741,
     "distanceTravelledKm" : 234816
   }, {
+    "timeStampUtc" : _0x1b62fa(482),
     "elapsedSeconds" : 88080,
     "elapsedMinutes" : 1468,
     "elapsedHours" : 24.46667,
@@ -247,6 +271,7 @@
     "velocityKmSec" : 1.712,
     "distanceTravelledKm" : 241032
   }, {
+    "timeStampUtc" : _0x1b62fa(176),
     "elapsedSeconds" : 91680,
     "elapsedMinutes" : 1528,
     "elapsedHours" : 25.46667,
@@ -256,6 +281,7 @@
     "velocityKmSec" : 1.684,
     "distanceTravelledKm" : 247145
   }, {
+    "timeStampUtc" : _0x1b62fa(423),
     "elapsedSeconds" : 95280,
     "elapsedMinutes" : 1588,
     "elapsedHours" : 26.46667,
@@ -265,6 +291,7 @@
     "velocityKmSec" : 1.658,
     "distanceTravelledKm" : 253161
   }, {
+    "timeStampUtc" : _0x1b62fa(160),
     "elapsedSeconds" : 98880,
     "elapsedMinutes" : 1648,
     "elapsedHours" : 27.46667,
@@ -274,6 +301,7 @@
     "velocityKmSec" : 1.633,
     "distanceTravelledKm" : 259085
   }, {
+    "timeStampUtc" : _0x1b62fa(217),
     "elapsedSeconds" : 102480,
     "elapsedMinutes" : 1708,
     "elapsedHours" : 28.46667,
@@ -283,6 +311,7 @@
     "velocityKmSec" : 1.609,
     "distanceTravelledKm" : 264921
   }, {
+    "timeStampUtc" : _0x1b62fa(623),
     "elapsedSeconds" : 106080,
     "elapsedMinutes" : 1768,
     "elapsedHours" : 29.46667,
@@ -292,6 +321,7 @@
     "velocityKmSec" : 1.586,
     "distanceTravelledKm" : 270672
   }, {
+    "timeStampUtc" : _0x1b62fa(633),
     "elapsedSeconds" : 109680,
     "elapsedMinutes" : 1828,
     "elapsedHours" : 30.46667,
@@ -301,6 +331,7 @@
     "velocityKmSec" : 1.565,
     "distanceTravelledKm" : 276343
   }, {
+    "timeStampUtc" : _0x1b62fa(568),
     "elapsedSeconds" : 113280,
     "elapsedMinutes" : 1888,
     "elapsedHours" : 31.46667,
@@ -310,6 +341,7 @@
     "velocityKmSec" : 1.544,
     "distanceTravelledKm" : 281938
   }, {
+    "timeStampUtc" : _0x1b62fa(245),
     "elapsedSeconds" : 116880,
     "elapsedMinutes" : 1948,
     "elapsedHours" : 32.46667,
@@ -339,6 +371,7 @@
     "velocityKmSec" : 1.486,
     "distanceTravelledKm" : 298292
   }, {
+    "timeStampUtc" : _0x1b62fa(250),
     "elapsedSeconds" : 127680,
     "elapsedMinutes" : 2128,
     "elapsedHours" : 35.46667,
@@ -348,6 +381,7 @@
     "velocityKmSec" : 1.468,
     "distanceTravelledKm" : 303608
   }, {
+    "timeStampUtc" : _0x1b62fa(537),
     "elapsedSeconds" : 131280,
     "elapsedMinutes" : 2188,
     "elapsedHours" : 36.46667,
@@ -357,6 +391,7 @@
     "velocityKmSec" : 1.451,
     "distanceTravelledKm" : 308862
   }, {
+    "timeStampUtc" : _0x1b62fa(219),
     "elapsedSeconds" : 134880,
     "elapsedMinutes" : 2248,
     "elapsedHours" : 37.46667,
@@ -366,6 +401,7 @@
     "velocityKmSec" : 1.434,
     "distanceTravelledKm" : 314055
   }, {
+    "timeStampUtc" : _0x1b62fa(215),
     "elapsedSeconds" : 138480,
     "elapsedMinutes" : 2308,
     "elapsedHours" : 38.46667,
@@ -375,6 +411,7 @@
     "velocityKmSec" : 1.418,
     "distanceTravelledKm" : 319190
   }, {
+    "timeStampUtc" : _0x1b62fa(230),
     "elapsedSeconds" : 142080,
     "elapsedMinutes" : 2368,
     "elapsedHours" : 39.46667,
@@ -394,6 +431,7 @@
     "velocityKmSec" : 1.388,
     "distanceTravelledKm" : 329290
   }, {
+    "timeStampUtc" : _0x1b62fa(591),
     "elapsedSeconds" : 149280,
     "elapsedMinutes" : 2488,
     "elapsedHours" : 41.46667,
@@ -403,6 +441,7 @@
     "velocityKmSec" : 1.373,
     "distanceTravelledKm" : 334259
   }, {
+    "timeStampUtc" : _0x1b62fa(409),
     "elapsedSeconds" : 152880,
     "elapsedMinutes" : 2548,
     "elapsedHours" : 42.46667,
@@ -412,6 +451,7 @@
     "velocityKmSec" : 1.359,
     "distanceTravelledKm" : 339177
   }, {
+    "timeStampUtc" : _0x1b62fa(317),
     "elapsedSeconds" : 156480,
     "elapsedMinutes" : 2608,
     "elapsedHours" : 43.46667,
@@ -421,6 +461,7 @@
     "velocityKmSec" : 1.345,
     "distanceTravelledKm" : 344045
   }, {
+    "timeStampUtc" : _0x1b62fa(305),
     "elapsedSeconds" : 160080,
     "elapsedMinutes" : 2668,
     "elapsedHours" : 44.46667,
@@ -430,6 +471,7 @@
     "velocityKmSec" : 1.332,
     "distanceTravelledKm" : 348864
   }, {
+    "timeStampUtc" : _0x1b62fa(493),
     "elapsedSeconds" : 163680,
     "elapsedMinutes" : 2728,
     "elapsedHours" : 45.46667,
@@ -439,6 +481,7 @@
     "velocityKmSec" : 1.319,
     "distanceTravelledKm" : 353636
   }, {
+    "timeStampUtc" : _0x1b62fa(476),
     "elapsedSeconds" : 167280,
     "elapsedMinutes" : 2788,
     "elapsedHours" : 46.46667,
@@ -458,6 +501,7 @@
     "velocityKmSec" : 1.294,
     "distanceTravelledKm" : 363043
   }, {
+    "timeStampUtc" : _0x1b62fa(350),
     "elapsedSeconds" : 174480,
     "elapsedMinutes" : 2908,
     "elapsedHours" : 48.46667,
@@ -467,6 +511,7 @@
     "velocityKmSec" : 1.282,
     "distanceTravelledKm" : 367680
   }, {
+    "timeStampUtc" : _0x1b62fa(266),
     "elapsedSeconds" : 178080,
     "elapsedMinutes" : 2968,
     "elapsedHours" : 49.46667,
@@ -476,6 +521,7 @@
     "velocityKmSec" : 1.271,
     "distanceTravelledKm" : 372275
   }, {
+    "timeStampUtc" : _0x1b62fa(599),
     "elapsedSeconds" : 181680,
     "elapsedMinutes" : 3028,
     "elapsedHours" : 50.46667,
@@ -485,6 +531,7 @@
     "velocityKmSec" : 1.259,
     "distanceTravelledKm" : 376829
   }, {
+    "timeStampUtc" : _0x1b62fa(659),
     "elapsedSeconds" : 185280,
     "elapsedMinutes" : 3088,
     "elapsedHours" : 51.46667,
@@ -494,6 +541,7 @@
     "velocityKmSec" : 1.248,
     "distanceTravelledKm" : 381342
   }, {
+    "timeStampUtc" : _0x1b62fa(310),
     "elapsedSeconds" : 188880,
     "elapsedMinutes" : 3148,
     "elapsedHours" : 52.46667,
@@ -503,6 +551,7 @@
     "velocityKmSec" : 1.237,
     "distanceTravelledKm" : 385816
   }, {
+    "timeStampUtc" : _0x1b62fa(285),
     "elapsedSeconds" : 192480,
     "elapsedMinutes" : 3208,
     "elapsedHours" : 53.46667,
@@ -512,6 +561,7 @@
     "velocityKmSec" : 1.227,
     "distanceTravelledKm" : 390252
   }, {
+    "timeStampUtc" : _0x1b62fa(546),
     "elapsedSeconds" : 196080,
     "elapsedMinutes" : 3268,
     "elapsedHours" : 54.46667,
@@ -531,6 +581,7 @@
     "velocityKmSec" : 1.206,
     "distanceTravelledKm" : 399011
   }, {
+    "timeStampUtc" : _0x1b62fa(132),
     "elapsedSeconds" : 203280,
     "elapsedMinutes" : 3388,
     "elapsedHours" : 56.46667,
@@ -540,6 +591,7 @@
     "velocityKmSec" : 1.197,
     "distanceTravelledKm" : 403336
   }, {
+    "timeStampUtc" : _0x1b62fa(268),
     "elapsedSeconds" : 206880,
     "elapsedMinutes" : 3448,
     "elapsedHours" : 57.46667,
@@ -549,6 +601,7 @@
     "velocityKmSec" : 1.187,
     "distanceTravelledKm" : 407626
   }, {
+    "timeStampUtc" : _0x1b62fa(321),
     "elapsedSeconds" : 210480,
     "elapsedMinutes" : 3508,
     "elapsedHours" : 58.46667,
@@ -558,6 +611,7 @@
     "velocityKmSec" : 1.177,
     "distanceTravelledKm" : 411881
   }, {
+    "timeStampUtc" : _0x1b62fa(574),
     "elapsedSeconds" : 214080,
     "elapsedMinutes" : 3568,
     "elapsedHours" : 59.46667,
@@ -567,6 +621,7 @@
     "velocityKmSec" : 1.168,
     "distanceTravelledKm" : 416103
   }, {
+    "timeStampUtc" : _0x1b62fa(469),
     "elapsedSeconds" : 217680,
     "elapsedMinutes" : 3628,
     "elapsedHours" : 60.46667,
@@ -576,6 +631,7 @@
     "velocityKmSec" : 1.162,
     "distanceTravelledKm" : 420296
   }, {
+    "timeStampUtc" : _0x1b62fa(661),
     "elapsedSeconds" : 221280,
     "elapsedMinutes" : 3688,
     "elapsedHours" : 61.46667,
@@ -585,6 +641,7 @@
     "velocityKmSec" : 1.153,
     "distanceTravelledKm" : 424464
   }, {
+    "timeStampUtc" : _0x1b62fa(127),
     "elapsedSeconds" : 224880,
     "elapsedMinutes" : 3748,
     "elapsedHours" : 62.46667,
@@ -594,6 +651,7 @@
     "velocityKmSec" : 1.144,
     "distanceTravelledKm" : 428599
   }, {
+    "timeStampUtc" : _0x1b62fa(471),
     "elapsedSeconds" : 228480,
     "elapsedMinutes" : 3808,
     "elapsedHours" : 63.46667,
@@ -603,6 +661,7 @@
     "velocityKmSec" : 1.136,
     "distanceTravelledKm" : 432703
   }, {
+    "timeStampUtc" : _0x1b62fa(584),
     "elapsedSeconds" : 232080,
     "elapsedMinutes" : 3868,
     "elapsedHours" : 64.46667,
@@ -612,6 +671,7 @@
     "velocityKmSec" : 1.127,
     "distanceTravelledKm" : 436777
   }, {
+    "timeStampUtc" : _0x1b62fa(302),
     "elapsedSeconds" : 235680,
     "elapsedMinutes" : 3928,
     "elapsedHours" : 65.46667,
@@ -621,6 +681,7 @@
     "velocityKmSec" : 1.119,
     "distanceTravelledKm" : 440821
   }, {
+    "timeStampUtc" : _0x1b62fa(216),
     "elapsedSeconds" : 239280,
     "elapsedMinutes" : 3988,
     "elapsedHours" : 66.46667,
@@ -630,6 +691,7 @@
     "velocityKmSec" : 1.111,
     "distanceTravelledKm" : 444836
   }, {
+    "timeStampUtc" : _0x1b62fa(673),
     "elapsedSeconds" : 242880,
     "elapsedMinutes" : 4048,
     "elapsedHours" : 67.46667,
@@ -639,6 +701,7 @@
     "velocityKmSec" : 1.103,
     "distanceTravelledKm" : 448822
   }, {
+    "timeStampUtc" : _0x1b62fa(616),
     "elapsedSeconds" : 246480,
     "elapsedMinutes" : 4108,
     "elapsedHours" : 68.46667,
@@ -648,6 +711,7 @@
     "velocityKmSec" : 1.095,
     "distanceTravelledKm" : 452780
   }, {
+    "timeStampUtc" : _0x1b62fa(535),
     "elapsedSeconds" : 250080,
     "elapsedMinutes" : 4168,
     "elapsedHours" : 69.46667,
@@ -657,6 +721,7 @@
     "velocityKmSec" : 1.088,
     "distanceTravelledKm" : 456710
   }, {
+    "timeStampUtc" : _0x1b62fa(277),
     "elapsedSeconds" : 253680,
     "elapsedMinutes" : 4228,
     "elapsedHours" : 70.46667,
@@ -666,6 +731,7 @@
     "velocityKmSec" : 1.08,
     "distanceTravelledKm" : 460613
   }, {
+    "timeStampUtc" : _0x1b62fa(504),
     "elapsedSeconds" : 257280,
     "elapsedMinutes" : 4288,
     "elapsedHours" : 71.46667,
@@ -675,6 +741,7 @@
     "velocityKmSec" : 1.073,
     "distanceTravelledKm" : 464489
   }, {
+    "timeStampUtc" : _0x1b62fa(544),
     "elapsedSeconds" : 260880,
     "elapsedMinutes" : 4348,
     "elapsedHours" : 72.46667,
@@ -704,6 +771,7 @@
     "velocityKmSec" : 1.052,
     "distanceTravelledKm" : 475960
   }, {
+    "timeStampUtc" : _0x1b62fa(199),
     "elapsedSeconds" : 271680,
     "elapsedMinutes" : 4528,
     "elapsedHours" : 75.46667,
@@ -723,6 +791,7 @@
     "velocityKmSec" : 1.038,
     "distanceTravelledKm" : 483483
   }, {
+    "timeStampUtc" : _0x1b62fa(283),
     "elapsedSeconds" : 278880,
     "elapsedMinutes" : 4648,
     "elapsedHours" : 77.46667,
@@ -742,6 +811,7 @@
     "velocityKmSec" : 1.025,
     "distanceTravelledKm" : 490908
   }, {
+    "timeStampUtc" : _0x1b62fa(506),
     "elapsedSeconds" : 286080,
     "elapsedMinutes" : 4768,
     "elapsedHours" : 79.46667,
@@ -751,6 +821,7 @@
     "velocityKmSec" : 1.018,
     "distanceTravelledKm" : 494585
   }, {
+    "timeStampUtc" : _0x1b62fa(507),
     "elapsedSeconds" : 289680,
     "elapsedMinutes" : 4828,
     "elapsedHours" : 80.46667,
@@ -760,6 +831,7 @@
     "velocityKmSec" : 1.012,
     "distanceTravelledKm" : 498239
   }, {
+    "timeStampUtc" : _0x1b62fa(246),
     "elapsedSeconds" : 293280,
     "elapsedMinutes" : 4888,
     "elapsedHours" : 81.46667,
@@ -789,6 +861,7 @@
     "velocityKmSec" : .993,
     "distanceTravelledKm" : 509066
   }, {
+    "timeStampUtc" : _0x1b62fa(614),
     "elapsedSeconds" : 304080,
     "elapsedMinutes" : 5068,
     "elapsedHours" : 84.46667,
@@ -808,6 +881,7 @@
     "velocityKmSec" : .981,
     "distanceTravelledKm" : 516175
   }, {
+    "timeStampUtc" : _0x1b62fa(638),
     "elapsedSeconds" : 311280,
     "elapsedMinutes" : 5188,
     "elapsedHours" : 86.46667,
@@ -817,6 +891,7 @@
     "velocityKmSec" : .976,
     "distanceTravelledKm" : 519698
   }, {
+    "timeStampUtc" : _0x1b62fa(309),
     "elapsedSeconds" : 314880,
     "elapsedMinutes" : 5248,
     "elapsedHours" : 87.46667,
@@ -826,6 +901,7 @@
     "velocityKmSec" : .97,
     "distanceTravelledKm" : 523200
   }, {
+    "timeStampUtc" : _0x1b62fa(393),
     "elapsedSeconds" : 318480,
     "elapsedMinutes" : 5308,
     "elapsedHours" : 88.46667,
@@ -845,6 +921,7 @@
     "velocityKmSec" : .959,
     "distanceTravelledKm" : 530142
   }, {
+    "timeStampUtc" : _0x1b62fa(603),
     "elapsedSeconds" : 325680,
     "elapsedMinutes" : 5428,
     "elapsedHours" : 90.46667,
@@ -854,6 +931,7 @@
     "velocityKmSec" : .953,
     "distanceTravelledKm" : 533583
   }, {
+    "timeStampUtc" : _0x1b62fa(286),
     "elapsedSeconds" : 329280,
     "elapsedMinutes" : 5488,
     "elapsedHours" : 91.46667,
@@ -863,6 +941,7 @@
     "velocityKmSec" : .948,
     "distanceTravelledKm" : 537004
   }, {
+    "timeStampUtc" : _0x1b62fa(233),
     "elapsedSeconds" : 332880,
     "elapsedMinutes" : 5548,
     "elapsedHours" : 92.46667,
@@ -872,6 +951,7 @@
     "velocityKmSec" : .942,
     "distanceTravelledKm" : 540406
   }, {
+    "timeStampUtc" : _0x1b62fa(590),
     "elapsedSeconds" : 336480,
     "elapsedMinutes" : 5608,
     "elapsedHours" : 93.46667,
@@ -891,6 +971,7 @@
     "velocityKmSec" : .932,
     "distanceTravelledKm" : 547153
   }, {
+    "timeStampUtc" : _0x1b62fa(146),
     "elapsedSeconds" : 343680,
     "elapsedMinutes" : 5728,
     "elapsedHours" : 95.46667,
@@ -900,6 +981,7 @@
     "velocityKmSec" : .927,
     "distanceTravelledKm" : 550498
   }, {
+    "timeStampUtc" : _0x1b62fa(664),
     "elapsedSeconds" : 347280,
     "elapsedMinutes" : 5788,
     "elapsedHours" : 96.46667,
@@ -909,6 +991,7 @@
     "velocityKmSec" : .922,
     "distanceTravelledKm" : 553824
   }, {
+    "timeStampUtc" : _0x1b62fa(417),
     "elapsedSeconds" : 350880,
     "elapsedMinutes" : 5848,
     "elapsedHours" : 97.46667,
@@ -928,6 +1011,7 @@
     "velocityKmSec" : .912,
     "distanceTravelledKm" : 560423
   }, {
+    "timeStampUtc" : _0x1b62fa(403),
     "elapsedSeconds" : 358080,
     "elapsedMinutes" : 5968,
     "elapsedHours" : 99.46667,
@@ -937,6 +1021,7 @@
     "velocityKmSec" : .907,
     "distanceTravelledKm" : 563695
   }, {
+    "timeStampUtc" : _0x1b62fa(185),
     "elapsedSeconds" : 361680,
     "elapsedMinutes" : 6028,
     "elapsedHours" : 100.46667,
@@ -946,6 +1031,7 @@
     "velocityKmSec" : .902,
     "distanceTravelledKm" : 566951
   }, {
+    "timeStampUtc" : _0x1b62fa(680),
     "elapsedSeconds" : 365280,
     "elapsedMinutes" : 6088,
     "elapsedHours" : 101.46667,
@@ -955,6 +1041,7 @@
     "velocityKmSec" : .897,
     "distanceTravelledKm" : 570188
   }, {
+    "timeStampUtc" : _0x1b62fa(460),
     "elapsedSeconds" : 368880,
     "elapsedMinutes" : 6148,
     "elapsedHours" : 102.46667,
@@ -964,6 +1051,7 @@
     "velocityKmSec" : .892,
     "distanceTravelledKm" : 573409
   }, {
+    "timeStampUtc" : _0x1b62fa(624),
     "elapsedSeconds" : 372480,
     "elapsedMinutes" : 6208,
     "elapsedHours" : 103.46667,
@@ -973,6 +1061,7 @@
     "velocityKmSec" : .888,
     "distanceTravelledKm" : 576613
   }, {
+    "timeStampUtc" : _0x1b62fa(211),
     "elapsedSeconds" : 376080,
     "elapsedMinutes" : 6268,
     "elapsedHours" : 104.46667,
@@ -982,6 +1071,7 @@
     "velocityKmSec" : .883,
     "distanceTravelledKm" : 579800
   }, {
+    "timeStampUtc" : _0x1b62fa(272),
     "elapsedSeconds" : 379680,
     "elapsedMinutes" : 6328,
     "elapsedHours" : 105.46667,
@@ -991,6 +1081,7 @@
     "velocityKmSec" : .878,
     "distanceTravelledKm" : 582970
   }, {
+    "timeStampUtc" : _0x1b62fa(140),
     "elapsedSeconds" : 383280,
     "elapsedMinutes" : 6388,
     "elapsedHours" : 106.46667,
@@ -1010,6 +1101,7 @@
     "velocityKmSec" : .869,
     "distanceTravelledKm" : 589262
   }, {
+    "timeStampUtc" : _0x1b62fa(191),
     "elapsedSeconds" : 390480,
     "elapsedMinutes" : 6508,
     "elapsedHours" : 108.46667,
@@ -1029,6 +1121,7 @@
     "velocityKmSec" : .861,
     "distanceTravelledKm" : 595490
   }, {
+    "timeStampUtc" : _0x1b62fa(364),
     "elapsedSeconds" : 397680,
     "elapsedMinutes" : 6628,
     "elapsedHours" : 110.46667,
@@ -1038,6 +1131,7 @@
     "velocityKmSec" : .856,
     "distanceTravelledKm" : 598581
   }, {
+    "timeStampUtc" : _0x1b62fa(612),
     "elapsedSeconds" : 401280,
     "elapsedMinutes" : 6688,
     "elapsedHours" : 111.46667,
@@ -1047,6 +1141,7 @@
     "velocityKmSec" : .852,
     "distanceTravelledKm" : 601656
   }, {
+    "timeStampUtc" : _0x1b62fa(662),
     "elapsedSeconds" : 404880,
     "elapsedMinutes" : 6748,
     "elapsedHours" : 112.46667,
@@ -1056,6 +1151,7 @@
     "velocityKmSec" : .848,
     "distanceTravelledKm" : 604716
   }, {
+    "timeStampUtc" : _0x1b62fa(462),
     "elapsedSeconds" : 408480,
     "elapsedMinutes" : 6808,
     "elapsedHours" : 113.46667,
@@ -1065,6 +1161,7 @@
     "velocityKmSec" : .844,
     "distanceTravelledKm" : 607761
   }, {
+    "timeStampUtc" : _0x1b62fa(142),
     "elapsedSeconds" : 412080,
     "elapsedMinutes" : 6868,
     "elapsedHours" : 114.46667,
@@ -1074,6 +1171,7 @@
     "velocityKmSec" : .84,
     "distanceTravelledKm" : 610791
   }, {
+    "timeStampUtc" : _0x1b62fa(679),
     "elapsedSeconds" : 415680,
     "elapsedMinutes" : 6928,
     "elapsedHours" : 115.46667,
@@ -1083,6 +1181,7 @@
     "velocityKmSec" : .835,
     "distanceTravelledKm" : 613806
   }, {
+    "timeStampUtc" : _0x1b62fa(236),
     "elapsedSeconds" : 419280,
     "elapsedMinutes" : 6988,
     "elapsedHours" : 116.46667,
@@ -1092,6 +1191,7 @@
     "velocityKmSec" : .831,
     "distanceTravelledKm" : 616806
   }, {
+    "timeStampUtc" : _0x1b62fa(206),
     "elapsedSeconds" : 422880,
     "elapsedMinutes" : 7048,
     "elapsedHours" : 117.46667,
@@ -1101,6 +1201,7 @@
     "velocityKmSec" : .827,
     "distanceTravelledKm" : 619792
   }, {
+    "timeStampUtc" : _0x1b62fa(585),
     "elapsedSeconds" : 426480,
     "elapsedMinutes" : 7108,
     "elapsedHours" : 118.46667,
@@ -1160,6 +1261,7 @@
     "velocityKmSec" : .804,
     "distanceTravelledKm" : 637413
   }, {
+    "timeStampUtc" : _0x1b62fa(465),
     "elapsedSeconds" : 448080,
     "elapsedMinutes" : 7468,
     "elapsedHours" : 124.46667,
@@ -1169,6 +1271,7 @@
     "velocityKmSec" : .801,
     "distanceTravelledKm" : 640302
   }, {
+    "timeStampUtc" : _0x1b62fa(343),
     "elapsedSeconds" : 451680,
     "elapsedMinutes" : 7528,
     "elapsedHours" : 125.46667,
@@ -1178,6 +1281,7 @@
     "velocityKmSec" : .797,
     "distanceTravelledKm" : 643177
   }, {
+    "timeStampUtc" : _0x1b62fa(261),
     "elapsedSeconds" : 455280,
     "elapsedMinutes" : 7588,
     "elapsedHours" : 126.46667,
@@ -1187,6 +1291,7 @@
     "velocityKmSec" : .793,
     "distanceTravelledKm" : 646039
   }, {
+    "timeStampUtc" : _0x1b62fa(559),
     "elapsedSeconds" : 458880,
     "elapsedMinutes" : 7648,
     "elapsedHours" : 127.46667,
@@ -1216,6 +1321,7 @@
     "velocityKmSec" : .782,
     "distanceTravelledKm" : 654548
   }, {
+    "timeStampUtc" : _0x1b62fa(514),
     "elapsedSeconds" : 469680,
     "elapsedMinutes" : 7828,
     "elapsedHours" : 130.46667,
@@ -1225,6 +1331,7 @@
     "velocityKmSec" : .779,
     "distanceTravelledKm" : 657359
   }, {
+    "timeStampUtc" : _0x1b62fa(187),
     "elapsedSeconds" : 473280,
     "elapsedMinutes" : 7888,
     "elapsedHours" : 131.46667,
@@ -1244,6 +1351,7 @@
     "velocityKmSec" : .772,
     "distanceTravelledKm" : 662943
   }, {
+    "timeStampUtc" : _0x1b62fa(295),
     "elapsedSeconds" : 480480,
     "elapsedMinutes" : 8008,
     "elapsedHours" : 133.46667,
@@ -1263,6 +1371,7 @@
     "velocityKmSec" : .765,
     "distanceTravelledKm" : 668477
   }, {
+    "timeStampUtc" : _0x1b62fa(307),
     "elapsedSeconds" : 487680,
     "elapsedMinutes" : 8128,
     "elapsedHours" : 135.46667,
@@ -1282,6 +1391,7 @@
     "velocityKmSec" : .759,
     "distanceTravelledKm" : 673962
   }, {
+    "timeStampUtc" : _0x1b62fa(619),
     "elapsedSeconds" : 494880,
     "elapsedMinutes" : 8248,
     "elapsedHours" : 137.46667,
@@ -1291,6 +1401,7 @@
     "velocityKmSec" : .755,
     "distanceTravelledKm" : 676687
   }, {
+    "timeStampUtc" : _0x1b62fa(480),
     "elapsedSeconds" : 498480,
     "elapsedMinutes" : 8308,
     "elapsedHours" : 138.46667,
@@ -1300,6 +1411,7 @@
     "velocityKmSec" : .752,
     "distanceTravelledKm" : 679400
   }, {
+    "timeStampUtc" : _0x1b62fa(382),
     "elapsedSeconds" : 502080,
     "elapsedMinutes" : 8368,
     "elapsedHours" : 139.46667,
@@ -1319,6 +1431,7 @@
     "velocityKmSec" : .746,
     "distanceTravelledKm" : 684792
   }, {
+    "timeStampUtc" : _0x1b62fa(516),
     "elapsedSeconds" : 509280,
     "elapsedMinutes" : 8488,
     "elapsedHours" : 141.46667,
@@ -1328,6 +1441,7 @@
     "velocityKmSec" : .742,
     "distanceTravelledKm" : 687470
   }, {
+    "timeStampUtc" : _0x1b62fa(632),
     "elapsedSeconds" : 512880,
     "elapsedMinutes" : 8548,
     "elapsedHours" : 142.46667,
@@ -1347,6 +1461,7 @@
     "velocityKmSec" : .736,
     "distanceTravelledKm" : 692792
   }, {
+    "timeStampUtc" : _0x1b62fa(411),
     "elapsedSeconds" : 520080,
     "elapsedMinutes" : 8668,
     "elapsedHours" : 144.46667,
@@ -1356,6 +1471,7 @@
     "velocityKmSec" : .733,
     "distanceTravelledKm" : 695437
   }, {
+    "timeStampUtc" : _0x1b62fa(443),
     "elapsedSeconds" : 523680,
     "elapsedMinutes" : 8728,
     "elapsedHours" : 145.46667,
@@ -1365,6 +1481,7 @@
     "velocityKmSec" : .73,
     "distanceTravelledKm" : 698070
   }, {
+    "timeStampUtc" : _0x1b62fa(536),
     "elapsedSeconds" : 527280,
     "elapsedMinutes" : 8788,
     "elapsedHours" : 146.46667,
@@ -1374,6 +1491,7 @@
     "velocityKmSec" : .727,
     "distanceTravelledKm" : 700692
   }, {
+    "timeStampUtc" : _0x1b62fa(489),
     "elapsedSeconds" : 530880,
     "elapsedMinutes" : 8848,
     "elapsedHours" : 147.46667,
@@ -1383,6 +1501,7 @@
     "velocityKmSec" : .724,
     "distanceTravelledKm" : 703303
   }, {
+    "timeStampUtc" : _0x1b62fa(437),
     "elapsedSeconds" : 534480,
     "elapsedMinutes" : 8908,
     "elapsedHours" : 148.46667,
@@ -1392,6 +1511,7 @@
     "velocityKmSec" : .721,
     "distanceTravelledKm" : 705904
   }, {
+    "timeStampUtc" : _0x1b62fa(152),
     "elapsedSeconds" : 538080,
     "elapsedMinutes" : 8968,
     "elapsedHours" : 149.46667,
@@ -1401,6 +1521,7 @@
     "velocityKmSec" : .718,
     "distanceTravelledKm" : 708493
   }, {
+    "timeStampUtc" : _0x1b62fa(637),
     "elapsedSeconds" : 541680,
     "elapsedMinutes" : 9028,
     "elapsedHours" : 150.46667,
@@ -1410,6 +1531,7 @@
     "velocityKmSec" : .715,
     "distanceTravelledKm" : 711073
   }, {
+    "timeStampUtc" : _0x1b62fa(526),
     "elapsedSeconds" : 545280,
     "elapsedMinutes" : 9088,
     "elapsedHours" : 151.46667,
@@ -1419,6 +1541,7 @@
     "velocityKmSec" : .712,
     "distanceTravelledKm" : 713641
   }, {
+    "timeStampUtc" : _0x1b62fa(466),
     "elapsedSeconds" : 548880,
     "elapsedMinutes" : 9148,
     "elapsedHours" : 152.46667,
@@ -1438,6 +1561,7 @@
     "velocityKmSec" : .706,
     "distanceTravelledKm" : 718747
   }, {
+    "timeStampUtc" : _0x1b62fa(491),
     "elapsedSeconds" : 556080,
     "elapsedMinutes" : 9268,
     "elapsedHours" : 154.46667,
@@ -1447,6 +1571,7 @@
     "velocityKmSec" : .703,
     "distanceTravelledKm" : 721284
   }, {
+    "timeStampUtc" : _0x1b62fa(251),
     "elapsedSeconds" : 559680,
     "elapsedMinutes" : 9328,
     "elapsedHours" : 155.46667,
@@ -1456,6 +1581,7 @@
     "velocityKmSec" : .701,
     "distanceTravelledKm" : 723811
   }, {
+    "timeStampUtc" : _0x1b62fa(192),
     "elapsedSeconds" : 563280,
     "elapsedMinutes" : 9388,
     "elapsedHours" : 156.46667,
@@ -1465,6 +1591,7 @@
     "velocityKmSec" : .698,
     "distanceTravelledKm" : 726328
   }, {
+    "timeStampUtc" : _0x1b62fa(276),
     "elapsedSeconds" : 566880,
     "elapsedMinutes" : 9448,
     "elapsedHours" : 157.46667,
@@ -1474,6 +1601,7 @@
     "velocityKmSec" : .695,
     "distanceTravelledKm" : 728835
   }, {
+    "timeStampUtc" : _0x1b62fa(488),
     "elapsedSeconds" : 570480,
     "elapsedMinutes" : 9508,
     "elapsedHours" : 158.46667,
@@ -1483,6 +1611,7 @@
     "velocityKmSec" : .692,
     "distanceTravelledKm" : 731332
   }, {
+    "timeStampUtc" : _0x1b62fa(213),
     "elapsedSeconds" : 574080,
     "elapsedMinutes" : 9568,
     "elapsedHours" : 159.46667,
@@ -1492,6 +1621,7 @@
     "velocityKmSec" : .689,
     "distanceTravelledKm" : 733818
   }, {
+    "timeStampUtc" : _0x1b62fa(399),
     "elapsedSeconds" : 577680,
     "elapsedMinutes" : 9628,
     "elapsedHours" : 160.46667,
@@ -1501,6 +1631,7 @@
     "velocityKmSec" : .687,
     "distanceTravelledKm" : 736296
   }, {
+    "timeStampUtc" : _0x1b62fa(303),
     "elapsedSeconds" : 581280,
     "elapsedMinutes" : 9688,
     "elapsedHours" : 161.46667,
@@ -1510,6 +1641,7 @@
     "velocityKmSec" : .684,
     "distanceTravelledKm" : 738763
   }, {
+    "timeStampUtc" : _0x1b62fa(129),
     "elapsedSeconds" : 584880,
     "elapsedMinutes" : 9748,
     "elapsedHours" : 162.46667,
@@ -1549,6 +1681,7 @@
     "velocityKmSec" : .673,
     "distanceTravelledKm" : 748536
   }, {
+    "timeStampUtc" : _0x1b62fa(558),
     "elapsedSeconds" : 599280,
     "elapsedMinutes" : 9988,
     "elapsedHours" : 166.46667,
@@ -1558,6 +1691,7 @@
     "velocityKmSec" : .671,
     "distanceTravelledKm" : 750956
   }, {
+    "timeStampUtc" : _0x1b62fa(325),
     "elapsedSeconds" : 602880,
     "elapsedMinutes" : 10048,
     "elapsedHours" : 167.46667,
@@ -1567,6 +1701,7 @@
     "velocityKmSec" : .668,
     "distanceTravelledKm" : 753366
   }, {
+    "timeStampUtc" : _0x1b62fa(519),
     "elapsedSeconds" : 606480,
     "elapsedMinutes" : 10108,
     "elapsedHours" : 168.46667,
@@ -1596,6 +1731,7 @@
     "velocityKmSec" : .661,
     "distanceTravelledKm" : 760542
   }, {
+    "timeStampUtc" : _0x1b62fa(593),
     "elapsedSeconds" : 617280,
     "elapsedMinutes" : 10288,
     "elapsedHours" : 171.46667,
@@ -1605,6 +1741,7 @@
     "velocityKmSec" : .658,
     "distanceTravelledKm" : 762915
   }, {
+    "timeStampUtc" : _0x1b62fa(400),
     "elapsedSeconds" : 620880,
     "elapsedMinutes" : 10348,
     "elapsedHours" : 172.46667,
@@ -1614,6 +1751,7 @@
     "velocityKmSec" : .656,
     "distanceTravelledKm" : 765280
   }, {
+    "timeStampUtc" : _0x1b62fa(635),
     "elapsedSeconds" : 624480,
     "elapsedMinutes" : 10408,
     "elapsedHours" : 173.46667,
@@ -1633,6 +1771,7 @@
     "velocityKmSec" : .651,
     "distanceTravelledKm" : 769983
   }, {
+    "timeStampUtc" : _0x1b62fa(362),
     "elapsedSeconds" : 631680,
     "elapsedMinutes" : 10528,
     "elapsedHours" : 175.46667,
@@ -1642,6 +1781,7 @@
     "velocityKmSec" : .648,
     "distanceTravelledKm" : 772321
   }, {
+    "timeStampUtc" : _0x1b62fa(385),
     "elapsedSeconds" : 635280,
     "elapsedMinutes" : 10588,
     "elapsedHours" : 176.46667,
@@ -1661,6 +1801,7 @@
     "velocityKmSec" : .643,
     "distanceTravelledKm" : 776971
   }, {
+    "timeStampUtc" : _0x1b62fa(620),
     "elapsedSeconds" : 642480,
     "elapsedMinutes" : 10708,
     "elapsedHours" : 178.46667,
@@ -1670,6 +1811,7 @@
     "velocityKmSec" : .641,
     "distanceTravelledKm" : 779283
   }, {
+    "timeStampUtc" : _0x1b62fa(193),
     "elapsedSeconds" : 646080,
     "elapsedMinutes" : 10768,
     "elapsedHours" : 179.46667,
@@ -1689,6 +1831,7 @@
     "velocityKmSec" : .636,
     "distanceTravelledKm" : 783882
   }, {
+    "timeStampUtc" : _0x1b62fa(271),
     "elapsedSeconds" : 653280,
     "elapsedMinutes" : 10888,
     "elapsedHours" : 181.46667,
@@ -1718,6 +1861,7 @@
     "velocityKmSec" : .629,
     "distanceTravelledKm" : 790717
   }, {
+    "timeStampUtc" : _0x1b62fa(352),
     "elapsedSeconds" : 664080,
     "elapsedMinutes" : 11068,
     "elapsedHours" : 184.46667,
@@ -1727,6 +1871,7 @@
     "velocityKmSec" : .627,
     "distanceTravelledKm" : 792979
   }, {
+    "timeStampUtc" : _0x1b62fa(346),
     "elapsedSeconds" : 667680,
     "elapsedMinutes" : 11128,
     "elapsedHours" : 185.46667,
@@ -1746,6 +1891,7 @@
     "velocityKmSec" : .623,
     "distanceTravelledKm" : 797478
   }, {
+    "timeStampUtc" : _0x1b62fa(413),
     "elapsedSeconds" : 674880,
     "elapsedMinutes" : 11248,
     "elapsedHours" : 187.46667,
@@ -1755,6 +1901,7 @@
     "velocityKmSec" : .62,
     "distanceTravelledKm" : 799715
   }, {
+    "timeStampUtc" : _0x1b62fa(567),
     "elapsedSeconds" : 678480,
     "elapsedMinutes" : 11308,
     "elapsedHours" : 188.46667,
@@ -1764,6 +1911,7 @@
     "velocityKmSec" : .618,
     "distanceTravelledKm" : 801945
   }, {
+    "timeStampUtc" : _0x1b62fa(439),
     "elapsedSeconds" : 682080,
     "elapsedMinutes" : 11368,
     "elapsedHours" : 189.46667,
@@ -1773,6 +1921,7 @@
     "velocityKmSec" : .616,
     "distanceTravelledKm" : 804166
   }, {
+    "timeStampUtc" : _0x1b62fa(447),
     "elapsedSeconds" : 685680,
     "elapsedMinutes" : 11428,
     "elapsedHours" : 190.46667,
@@ -1782,6 +1931,7 @@
     "velocityKmSec" : .614,
     "distanceTravelledKm" : 806380
   }, {
+    "timeStampUtc" : _0x1b62fa(380),
     "elapsedSeconds" : 689280,
     "elapsedMinutes" : 11488,
     "elapsedHours" : 191.46667,
@@ -1791,6 +1941,7 @@
     "velocityKmSec" : .612,
     "distanceTravelledKm" : 808585
   }, {
+    "timeStampUtc" : _0x1b62fa(618),
     "elapsedSeconds" : 692880,
     "elapsedMinutes" : 11548,
     "elapsedHours" : 192.46667,
@@ -1810,6 +1961,7 @@
     "velocityKmSec" : .607,
     "distanceTravelledKm" : 812973
   }, {
+    "timeStampUtc" : _0x1b62fa(451),
     "elapsedSeconds" : 700080,
     "elapsedMinutes" : 11668,
     "elapsedHours" : 194.46667,
@@ -1819,6 +1971,7 @@
     "velocityKmSec" : .605,
     "distanceTravelledKm" : 815156
   }, {
+    "timeStampUtc" : _0x1b62fa(358),
     "elapsedSeconds" : 703680,
     "elapsedMinutes" : 11728,
     "elapsedHours" : 195.46667,
@@ -1828,6 +1981,7 @@
     "velocityKmSec" : .603,
     "distanceTravelledKm" : 817330
   }, {
+    "timeStampUtc" : _0x1b62fa(186),
     "elapsedSeconds" : 707280,
     "elapsedMinutes" : 11788,
     "elapsedHours" : 196.46667,
@@ -1877,6 +2031,7 @@
     "velocityKmSec" : .593,
     "distanceTravelledKm" : 828091
   }, {
+    "timeStampUtc" : _0x1b62fa(613),
     "elapsedSeconds" : 725280,
     "elapsedMinutes" : 12088,
     "elapsedHours" : 201.46667,
@@ -1886,6 +2041,7 @@
     "velocityKmSec" : .591,
     "distanceTravelledKm" : 830220
   }, {
+    "timeStampUtc" : _0x1b62fa(434),
     "elapsedSeconds" : 728880,
     "elapsedMinutes" : 12148,
     "elapsedHours" : 202.46667,
@@ -1895,6 +2051,7 @@
     "velocityKmSec" : .589,
     "distanceTravelledKm" : 832343
   }, {
+    "timeStampUtc" : _0x1b62fa(320),
     "elapsedSeconds" : 732480,
     "elapsedMinutes" : 12208,
     "elapsedHours" : 203.46667,
@@ -1914,6 +2071,7 @@
     "velocityKmSec" : .585,
     "distanceTravelledKm" : 836566
   }, {
+    "timeStampUtc" : _0x1b62fa(252),
     "elapsedSeconds" : 739680,
     "elapsedMinutes" : 12328,
     "elapsedHours" : 205.46667,
@@ -1923,6 +2081,7 @@
     "velocityKmSec" : .583,
     "distanceTravelledKm" : 838667
   }, {
+    "timeStampUtc" : _0x1b62fa(631),
     "elapsedSeconds" : 743280,
     "elapsedMinutes" : 12388,
     "elapsedHours" : 206.46667,
@@ -1932,6 +2091,7 @@
     "velocityKmSec" : .581,
     "distanceTravelledKm" : 840761
   }, {
+    "timeStampUtc" : _0x1b62fa(257),
     "elapsedSeconds" : 746880,
     "elapsedMinutes" : 12448,
     "elapsedHours" : 207.46667,
@@ -1951,6 +2111,7 @@
     "velocityKmSec" : .577,
     "distanceTravelledKm" : 844927
   }, {
+    "timeStampUtc" : _0x1b62fa(628),
     "elapsedSeconds" : 754080,
     "elapsedMinutes" : 12568,
     "elapsedHours" : 209.46667,
@@ -1960,6 +2121,7 @@
     "velocityKmSec" : .575,
     "distanceTravelledKm" : 847E3
   }, {
+    "timeStampUtc" : _0x1b62fa(157),
     "elapsedSeconds" : 757680,
     "elapsedMinutes" : 12628,
     "elapsedHours" : 210.46667,
@@ -1969,6 +2131,7 @@
     "velocityKmSec" : .573,
     "distanceTravelledKm" : 849065
   }, {
+    "timeStampUtc" : _0x1b62fa(341),
     "elapsedSeconds" : 761280,
     "elapsedMinutes" : 12688,
     "elapsedHours" : 211.46667,
@@ -1978,6 +2141,7 @@
     "velocityKmSec" : .571,
     "distanceTravelledKm" : 851124
   }, {
+    "timeStampUtc" : _0x1b62fa(676),
     "elapsedSeconds" : 764880,
     "elapsedMinutes" : 12748,
     "elapsedHours" : 212.46667,
@@ -1987,6 +2151,7 @@
     "velocityKmSec" : .569,
     "distanceTravelledKm" : 853176
   }, {
+    "timeStampUtc" : _0x1b62fa(171),
     "elapsedSeconds" : 768480,
     "elapsedMinutes" : 12808,
     "elapsedHours" : 213.46667,
@@ -1996,6 +2161,7 @@
     "velocityKmSec" : .567,
     "distanceTravelledKm" : 855221
   }, {
+    "timeStampUtc" : _0x1b62fa(589),
     "elapsedSeconds" : 772080,
     "elapsedMinutes" : 12868,
     "elapsedHours" : 214.46667,
@@ -2015,6 +2181,7 @@
     "velocityKmSec" : .563,
     "distanceTravelledKm" : 859291
   }, {
+    "timeStampUtc" : _0x1b62fa(448),
     "elapsedSeconds" : 779280,
     "elapsedMinutes" : 12988,
     "elapsedHours" : 216.46667,
@@ -2024,6 +2191,7 @@
     "velocityKmSec" : .562,
     "distanceTravelledKm" : 861316
   }, {
+    "timeStampUtc" : _0x1b62fa(666),
     "elapsedSeconds" : 782880,
     "elapsedMinutes" : 13048,
     "elapsedHours" : 217.46667,
@@ -2033,6 +2201,7 @@
     "velocityKmSec" : .56,
     "distanceTravelledKm" : 863335
   }, {
+    "timeStampUtc" : _0x1b62fa(450),
     "elapsedSeconds" : 786480,
     "elapsedMinutes" : 13108,
     "elapsedHours" : 218.46667,
@@ -2042,6 +2211,7 @@
     "velocityKmSec" : .558,
     "distanceTravelledKm" : 865346
   }, {
+    "timeStampUtc" : _0x1b62fa(549),
     "elapsedSeconds" : 790080,
     "elapsedMinutes" : 13168,
     "elapsedHours" : 219.46667,
@@ -2051,6 +2221,7 @@
     "velocityKmSec" : .556,
     "distanceTravelledKm" : 867351
   }, {
+    "timeStampUtc" : _0x1b62fa(345),
     "elapsedSeconds" : 793680,
     "elapsedMinutes" : 13228,
     "elapsedHours" : 220.46667,
@@ -2060,6 +2231,7 @@
     "velocityKmSec" : .554,
     "distanceTravelledKm" : 869350
   }, {
+    "timeStampUtc" : _0x1b62fa(431),
     "elapsedSeconds" : 797280,
     "elapsedMinutes" : 13288,
     "elapsedHours" : 221.46667,
@@ -2069,6 +2241,7 @@
     "velocityKmSec" : .552,
     "distanceTravelledKm" : 871342
   }, {
+    "timeStampUtc" : _0x1b62fa(287),
     "elapsedSeconds" : 800880,
     "elapsedMinutes" : 13348,
     "elapsedHours" : 222.46667,
@@ -2078,6 +2251,7 @@
     "velocityKmSec" : .551,
     "distanceTravelledKm" : 873328
   }, {
+    "timeStampUtc" : _0x1b62fa(436),
     "elapsedSeconds" : 804480,
     "elapsedMinutes" : 13408,
     "elapsedHours" : 223.46667,
@@ -2097,6 +2271,7 @@
     "velocityKmSec" : .547,
     "distanceTravelledKm" : 877280
   }, {
+    "timeStampUtc" : _0x1b62fa(124),
     "elapsedSeconds" : 811680,
     "elapsedMinutes" : 13528,
     "elapsedHours" : 225.46667,
@@ -2106,6 +2281,7 @@
     "velocityKmSec" : .545,
     "distanceTravelledKm" : 879247
   }, {
+    "timeStampUtc" : _0x1b62fa(486),
     "elapsedSeconds" : 815280,
     "elapsedMinutes" : 13588,
     "elapsedHours" : 226.46667,
@@ -2115,6 +2291,7 @@
     "velocityKmSec" : .544,
     "distanceTravelledKm" : 881207
   }, {
+    "timeStampUtc" : _0x1b62fa(515),
     "elapsedSeconds" : 818880,
     "elapsedMinutes" : 13648,
     "elapsedHours" : 227.46667,
@@ -2134,6 +2311,7 @@
     "velocityKmSec" : .54,
     "distanceTravelledKm" : 885109
   }, {
+    "timeStampUtc" : _0x1b62fa(674),
     "elapsedSeconds" : 826080,
     "elapsedMinutes" : 13768,
     "elapsedHours" : 229.46667,
@@ -2143,6 +2321,7 @@
     "velocityKmSec" : .539,
     "distanceTravelledKm" : 887051
   }, {
+    "timeStampUtc" : _0x1b62fa(334),
     "elapsedSeconds" : 829680,
     "elapsedMinutes" : 13828,
     "elapsedHours" : 230.46667,
@@ -2152,6 +2331,7 @@
     "velocityKmSec" : .537,
     "distanceTravelledKm" : 888986
   }, {
+    "timeStampUtc" : _0x1b62fa(630),
     "elapsedSeconds" : 833280,
     "elapsedMinutes" : 13888,
     "elapsedHours" : 231.46667,
@@ -2161,6 +2341,7 @@
     "velocityKmSec" : .535,
     "distanceTravelledKm" : 890916
   }, {
+    "timeStampUtc" : _0x1b62fa(330),
     "elapsedSeconds" : 836880,
     "elapsedMinutes" : 13948,
     "elapsedHours" : 232.46667,
@@ -2190,6 +2371,7 @@
     "velocityKmSec" : .53,
     "distanceTravelledKm" : 896668
   }, {
+    "timeStampUtc" : _0x1b62fa(137),
     "elapsedSeconds" : 847680,
     "elapsedMinutes" : 14128,
     "elapsedHours" : 235.46667,
@@ -2199,6 +2381,7 @@
     "velocityKmSec" : .528,
     "distanceTravelledKm" : 898573
   }, {
+    "timeStampUtc" : _0x1b62fa(178),
     "elapsedSeconds" : 851280,
     "elapsedMinutes" : 14188,
     "elapsedHours" : 236.46667,
@@ -2208,6 +2391,7 @@
     "velocityKmSec" : .527,
     "distanceTravelledKm" : 900473
   }, {
+    "timeStampUtc" : _0x1b62fa(457),
     "elapsedSeconds" : 854880,
     "elapsedMinutes" : 14248,
     "elapsedHours" : 237.46667,
@@ -2217,6 +2401,7 @@
     "velocityKmSec" : .525,
     "distanceTravelledKm" : 902366
   }, {
+    "timeStampUtc" : _0x1b62fa(344),
     "elapsedSeconds" : 858480,
     "elapsedMinutes" : 14308,
     "elapsedHours" : 238.46667,
@@ -2236,6 +2421,7 @@
     "velocityKmSec" : .522,
     "distanceTravelledKm" : 906136
   }, {
+    "timeStampUtc" : _0x1b62fa(326),
     "elapsedSeconds" : 865680,
     "elapsedMinutes" : 14428,
     "elapsedHours" : 240.46667,
@@ -2245,6 +2431,7 @@
     "velocityKmSec" : .52,
     "distanceTravelledKm" : 908012
   }, {
+    "timeStampUtc" : _0x1b62fa(655),
     "elapsedSeconds" : 869280,
     "elapsedMinutes" : 14488,
     "elapsedHours" : 241.46667,
@@ -2254,6 +2441,7 @@
     "velocityKmSec" : .519,
     "distanceTravelledKm" : 909883
   }, {
+    "timeStampUtc" : _0x1b62fa(254),
     "elapsedSeconds" : 872880,
     "elapsedMinutes" : 14548,
     "elapsedHours" : 242.46667,
@@ -2273,6 +2461,7 @@
     "velocityKmSec" : .516,
     "distanceTravelledKm" : 913607
   }, {
+    "timeStampUtc" : _0x1b62fa(452),
     "elapsedSeconds" : 880080,
     "elapsedMinutes" : 14668,
     "elapsedHours" : 244.46667,
@@ -2282,6 +2471,7 @@
     "velocityKmSec" : .514,
     "distanceTravelledKm" : 915460
   }, {
+    "timeStampUtc" : _0x1b62fa(511),
     "elapsedSeconds" : 883680,
     "elapsedMinutes" : 14728,
     "elapsedHours" : 245.46667,
@@ -2291,6 +2481,7 @@
     "velocityKmSec" : .513,
     "distanceTravelledKm" : 917308
   }, {
+    "timeStampUtc" : _0x1b62fa(473),
     "elapsedSeconds" : 887280,
     "elapsedMinutes" : 14788,
     "elapsedHours" : 246.46667,
@@ -2300,6 +2491,7 @@
     "velocityKmSec" : .511,
     "distanceTravelledKm" : 919150
   }, {
+    "timeStampUtc" : _0x1b62fa(678),
     "elapsedSeconds" : 890880,
     "elapsedMinutes" : 14848,
     "elapsedHours" : 247.46667,
@@ -2309,6 +2501,7 @@
     "velocityKmSec" : .509,
     "distanceTravelledKm" : 920987
   }, {
+    "timeStampUtc" : _0x1b62fa(440),
     "elapsedSeconds" : 894480,
     "elapsedMinutes" : 14908,
     "elapsedHours" : 248.46667,
@@ -2338,6 +2531,7 @@
     "velocityKmSec" : .505,
     "distanceTravelledKm" : 926464
   }, {
+    "timeStampUtc" : _0x1b62fa(150),
     "elapsedSeconds" : 905280,
     "elapsedMinutes" : 15088,
     "elapsedHours" : 251.46667,
@@ -2357,6 +2551,7 @@
     "velocityKmSec" : .502,
     "distanceTravelledKm" : 930088
   }, {
+    "timeStampUtc" : _0x1b62fa(575),
     "elapsedSeconds" : 912480,
     "elapsedMinutes" : 15208,
     "elapsedHours" : 253.46667,
@@ -2366,6 +2561,7 @@
     "velocityKmSec" : .5,
     "distanceTravelledKm" : 931892
   }, {
+    "timeStampUtc" : _0x1b62fa(412),
     "elapsedSeconds" : 916080,
     "elapsedMinutes" : 15268,
     "elapsedHours" : 254.46667,
@@ -2375,6 +2571,7 @@
     "velocityKmSec" : .499,
     "distanceTravelledKm" : 933691
   }, {
+    "timeStampUtc" : _0x1b62fa(654),
     "elapsedSeconds" : 919680,
     "elapsedMinutes" : 15328,
     "elapsedHours" : 255.46667,
@@ -2384,6 +2581,7 @@
     "velocityKmSec" : .497,
     "distanceTravelledKm" : 935484
   }, {
+    "timeStampUtc" : _0x1b62fa(615),
     "elapsedSeconds" : 923280,
     "elapsedMinutes" : 15388,
     "elapsedHours" : 256.46667,
@@ -2393,6 +2591,7 @@
     "velocityKmSec" : .496,
     "distanceTravelledKm" : 937273
   }, {
+    "timeStampUtc" : _0x1b62fa(523),
     "elapsedSeconds" : 926880,
     "elapsedMinutes" : 15448,
     "elapsedHours" : 257.46667,
@@ -2402,6 +2601,7 @@
     "velocityKmSec" : .495,
     "distanceTravelledKm" : 939055
   }, {
+    "timeStampUtc" : _0x1b62fa(553),
     "elapsedSeconds" : 930480,
     "elapsedMinutes" : 15508,
     "elapsedHours" : 258.46667,
@@ -2421,6 +2621,7 @@
     "velocityKmSec" : .492,
     "distanceTravelledKm" : 942606
   }, {
+    "timeStampUtc" : _0x1b62fa(138),
     "elapsedSeconds" : 937680,
     "elapsedMinutes" : 15628,
     "elapsedHours" : 260.46667,
@@ -2460,6 +2661,7 @@
     "velocityKmSec" : .486,
     "distanceTravelledKm" : 949645
   }, {
+    "timeStampUtc" : _0x1b62fa(583),
     "elapsedSeconds" : 952080,
     "elapsedMinutes" : 15868,
     "elapsedHours" : 264.46667,
@@ -2469,6 +2671,7 @@
     "velocityKmSec" : .485,
     "distanceTravelledKm" : 951392
   }, {
+    "timeStampUtc" : _0x1b62fa(617),
     "elapsedSeconds" : 955680,
     "elapsedMinutes" : 15928,
     "elapsedHours" : 265.46667,
@@ -2478,6 +2681,7 @@
     "velocityKmSec" : .483,
     "distanceTravelledKm" : 953135
   }, {
+    "timeStampUtc" : _0x1b62fa(645),
     "elapsedSeconds" : 959280,
     "elapsedMinutes" : 15988,
     "elapsedHours" : 266.46667,
@@ -2497,6 +2701,7 @@
     "velocityKmSec" : .481,
     "distanceTravelledKm" : 956604
   }, {
+    "timeStampUtc" : _0x1b62fa(550),
     "elapsedSeconds" : 966480,
     "elapsedMinutes" : 16108,
     "elapsedHours" : 268.46667,
@@ -2506,6 +2711,7 @@
     "velocityKmSec" : .479,
     "distanceTravelledKm" : 958331
   }, {
+    "timeStampUtc" : _0x1b62fa(596),
     "elapsedSeconds" : 970080,
     "elapsedMinutes" : 16168,
     "elapsedHours" : 269.46667,
@@ -2515,6 +2721,7 @@
     "velocityKmSec" : .478,
     "distanceTravelledKm" : 960054
   }, {
+    "timeStampUtc" : _0x1b62fa(557),
     "elapsedSeconds" : 973680,
     "elapsedMinutes" : 16228,
     "elapsedHours" : 270.46667,
@@ -2524,6 +2731,7 @@
     "velocityKmSec" : .476,
     "distanceTravelledKm" : 961771
   }, {
+    "timeStampUtc" : _0x1b62fa(353),
     "elapsedSeconds" : 977280,
     "elapsedMinutes" : 16288,
     "elapsedHours" : 271.46667,
@@ -2533,6 +2741,7 @@
     "velocityKmSec" : .475,
     "distanceTravelledKm" : 963484
   }, {
+    "timeStampUtc" : _0x1b62fa(578),
     "elapsedSeconds" : 980880,
     "elapsedMinutes" : 16348,
     "elapsedHours" : 272.46667,
@@ -2542,6 +2751,7 @@
     "velocityKmSec" : .474,
     "distanceTravelledKm" : 965192
   }, {
+    "timeStampUtc" : _0x1b62fa(548),
     "elapsedSeconds" : 984480,
     "elapsedMinutes" : 16408,
     "elapsedHours" : 273.46667,
@@ -2551,6 +2761,7 @@
     "velocityKmSec" : .472,
     "distanceTravelledKm" : 966895
   }, {
+    "timeStampUtc" : _0x1b62fa(375),
     "elapsedSeconds" : 988080,
     "elapsedMinutes" : 16468,
     "elapsedHours" : 274.46667,
@@ -2560,6 +2771,7 @@
     "velocityKmSec" : .471,
     "distanceTravelledKm" : 968594
   }, {
+    "timeStampUtc" : _0x1b62fa(360),
     "elapsedSeconds" : 991680,
     "elapsedMinutes" : 16528,
     "elapsedHours" : 275.46667,
@@ -2569,6 +2781,7 @@
     "velocityKmSec" : .47,
     "distanceTravelledKm" : 970288
   }, {
+    "timeStampUtc" : _0x1b62fa(373),
     "elapsedSeconds" : 995280,
     "elapsedMinutes" : 16588,
     "elapsedHours" : 276.46667,
@@ -2578,6 +2791,7 @@
     "velocityKmSec" : .469,
     "distanceTravelledKm" : 971977
   }, {
+    "timeStampUtc" : _0x1b62fa(492),
     "elapsedSeconds" : 998880,
     "elapsedMinutes" : 16648,
     "elapsedHours" : 277.46667,
@@ -2597,6 +2811,7 @@
     "velocityKmSec" : .466,
     "distanceTravelledKm" : 975341
   }, {
+    "timeStampUtc" : _0x1b62fa(502),
     "elapsedSeconds" : 1006080,
     "elapsedMinutes" : 16768,
     "elapsedHours" : 279.46667,
@@ -2606,6 +2821,7 @@
     "velocityKmSec" : .465,
     "distanceTravelledKm" : 977016
   }, {
+    "timeStampUtc" : _0x1b62fa(260),
     "elapsedSeconds" : 1009680,
     "elapsedMinutes" : 16828,
     "elapsedHours" : 280.46667,
@@ -2615,6 +2831,7 @@
     "velocityKmSec" : .463,
     "distanceTravelledKm" : 978687
   }, {
+    "timeStampUtc" : _0x1b62fa(552),
     "elapsedSeconds" : 1013280,
     "elapsedMinutes" : 16888,
     "elapsedHours" : 281.46667,
@@ -2624,6 +2841,7 @@
     "velocityKmSec" : .462,
     "distanceTravelledKm" : 980352
   }, {
+    "timeStampUtc" : _0x1b62fa(606),
     "elapsedSeconds" : 1016880,
     "elapsedMinutes" : 16948,
     "elapsedHours" : 282.46667,
@@ -2633,6 +2851,7 @@
     "velocityKmSec" : .461,
     "distanceTravelledKm" : 982014
   }, {
+    "timeStampUtc" : _0x1b62fa(130),
     "elapsedSeconds" : 1020480,
     "elapsedMinutes" : 17008,
     "elapsedHours" : 283.46667,
@@ -2642,6 +2861,7 @@
     "velocityKmSec" : .46,
     "distanceTravelledKm" : 983671
   }, {
+    "timeStampUtc" : _0x1b62fa(461),
     "elapsedSeconds" : 1024080,
     "elapsedMinutes" : 17068,
     "elapsedHours" : 284.46667,
@@ -2651,6 +2871,7 @@
     "velocityKmSec" : .458,
     "distanceTravelledKm" : 985323
   }, {
+    "timeStampUtc" : _0x1b62fa(128),
     "elapsedSeconds" : 1027680,
     "elapsedMinutes" : 17128,
     "elapsedHours" : 285.46667,
@@ -2660,6 +2881,7 @@
     "velocityKmSec" : .457,
     "distanceTravelledKm" : 986971
   }, {
+    "timeStampUtc" : _0x1b62fa(331),
     "elapsedSeconds" : 1031280,
     "elapsedMinutes" : 17188,
     "elapsedHours" : 286.46667,
@@ -2679,6 +2901,7 @@
     "velocityKmSec" : .455,
     "distanceTravelledKm" : 990254
   }, {
+    "timeStampUtc" : _0x1b62fa(433),
     "elapsedSeconds" : 1038480,
     "elapsedMinutes" : 17308,
     "elapsedHours" : 288.46667,
@@ -2698,6 +2921,7 @@
     "velocityKmSec" : .452,
     "distanceTravelledKm" : 993519
   }, {
+    "timeStampUtc" : _0x1b62fa(207),
     "elapsedSeconds" : 1045680,
     "elapsedMinutes" : 17428,
     "elapsedHours" : 290.46667,
@@ -2707,6 +2931,7 @@
     "velocityKmSec" : .451,
     "distanceTravelledKm" : 995145
   }, {
+    "timeStampUtc" : _0x1b62fa(626),
     "elapsedSeconds" : 1049280,
     "elapsedMinutes" : 17488,
     "elapsedHours" : 291.46667,
@@ -2726,6 +2951,7 @@
     "velocityKmSec" : .449,
     "distanceTravelledKm" : 998384
   }, {
+    "timeStampUtc" : _0x1b62fa(428),
     "elapsedSeconds" : 1056480,
     "elapsedMinutes" : 17608,
     "elapsedHours" : 293.46667,
@@ -2735,6 +2961,7 @@
     "velocityKmSec" : .447,
     "distanceTravelledKm" : 999997
   }, {
+    "timeStampUtc" : _0x1b62fa(365),
     "elapsedSeconds" : 1060080,
     "elapsedMinutes" : 17668,
     "elapsedHours" : 294.46667,
@@ -2754,6 +2981,7 @@
     "velocityKmSec" : .445,
     "distanceTravelledKm" : 1003210
   }, {
+    "timeStampUtc" : _0x1b62fa(391),
     "elapsedSeconds" : 1067280,
     "elapsedMinutes" : 17788,
     "elapsedHours" : 296.46667,
@@ -2763,6 +2991,7 @@
     "velocityKmSec" : .444,
     "distanceTravelledKm" : 1004811
   }, {
+    "timeStampUtc" : _0x1b62fa(225),
     "elapsedSeconds" : 1070880,
     "elapsedMinutes" : 17848,
     "elapsedHours" : 297.46667,
@@ -2772,6 +3001,7 @@
     "velocityKmSec" : .443,
     "distanceTravelledKm" : 1006407
   }, {
+    "timeStampUtc" : _0x1b62fa(226),
     "elapsedSeconds" : 1074480,
     "elapsedMinutes" : 17908,
     "elapsedHours" : 298.46667,
@@ -2781,6 +3011,7 @@
     "velocityKmSec" : .442,
     "distanceTravelledKm" : 1007999
   }, {
+    "timeStampUtc" : _0x1b62fa(159),
     "elapsedSeconds" : 1078080,
     "elapsedMinutes" : 17968,
     "elapsedHours" : 299.46667,
@@ -2790,6 +3021,7 @@
     "velocityKmSec" : .441,
     "distanceTravelledKm" : 1009587
   }, {
+    "timeStampUtc" : _0x1b62fa(170),
     "elapsedSeconds" : 1081680,
     "elapsedMinutes" : 18028,
     "elapsedHours" : 300.46667,
@@ -2799,6 +3031,7 @@
     "velocityKmSec" : .439,
     "distanceTravelledKm" : 1011171
   }, {
+    "timeStampUtc" : _0x1b62fa(438),
     "elapsedSeconds" : 1085280,
     "elapsedMinutes" : 18088,
     "elapsedHours" : 301.46667,
@@ -2808,6 +3041,7 @@
     "velocityKmSec" : .438,
     "distanceTravelledKm" : 1012751
   }, {
+    "timeStampUtc" : _0x1b62fa(398),
     "elapsedSeconds" : 1088880,
     "elapsedMinutes" : 18148,
     "elapsedHours" : 302.46667,
@@ -2827,6 +3061,7 @@
     "velocityKmSec" : .436,
     "distanceTravelledKm" : 1015898
   }, {
+    "timeStampUtc" : _0x1b62fa(547),
     "elapsedSeconds" : 1096080,
     "elapsedMinutes" : 18268,
     "elapsedHours" : 304.46667,
@@ -2836,6 +3071,7 @@
     "velocityKmSec" : .435,
     "distanceTravelledKm" : 1017466
   }, {
+    "timeStampUtc" : _0x1b62fa(314),
     "elapsedSeconds" : 1099680,
     "elapsedMinutes" : 18328,
     "elapsedHours" : 305.46667,
@@ -2845,6 +3081,7 @@
     "velocityKmSec" : .434,
     "distanceTravelledKm" : 1019029
   }, {
+    "timeStampUtc" : _0x1b62fa(608),
     "elapsedSeconds" : 1103280,
     "elapsedMinutes" : 18388,
     "elapsedHours" : 306.46667,
@@ -2854,6 +3091,7 @@
     "velocityKmSec" : .433,
     "distanceTravelledKm" : 1020589
   }, {
+    "timeStampUtc" : _0x1b62fa(161),
     "elapsedSeconds" : 1106880,
     "elapsedMinutes" : 18448,
     "elapsedHours" : 307.46667,
@@ -2863,6 +3101,7 @@
     "velocityKmSec" : .432,
     "distanceTravelledKm" : 1022144
   }, {
+    "timeStampUtc" : _0x1b62fa(383),
     "elapsedSeconds" : 1110480,
     "elapsedMinutes" : 18508,
     "elapsedHours" : 308.46667,
@@ -2872,6 +3111,7 @@
     "velocityKmSec" : .43,
     "distanceTravelledKm" : 1023696
   }, {
+    "timeStampUtc" : _0x1b62fa(241),
     "elapsedSeconds" : 1114080,
     "elapsedMinutes" : 18568,
     "elapsedHours" : 309.46667,
@@ -2891,6 +3131,7 @@
     "velocityKmSec" : .428,
     "distanceTravelledKm" : 1026788
   }, {
+    "timeStampUtc" : _0x1b62fa(265),
     "elapsedSeconds" : 1121280,
     "elapsedMinutes" : 18688,
     "elapsedHours" : 311.46667,
@@ -2900,6 +3141,7 @@
     "velocityKmSec" : .427,
     "distanceTravelledKm" : 1028328
   }, {
+    "timeStampUtc" : _0x1b62fa(425),
     "elapsedSeconds" : 1124880,
     "elapsedMinutes" : 18748,
     "elapsedHours" : 312.46667,
@@ -2919,6 +3161,7 @@
     "velocityKmSec" : .425,
     "distanceTravelledKm" : 1031396
   }, {
+    "timeStampUtc" : _0x1b62fa(530),
     "elapsedSeconds" : 1132080,
     "elapsedMinutes" : 18868,
     "elapsedHours" : 314.46667,
@@ -2928,6 +3171,7 @@
     "velocityKmSec" : .424,
     "distanceTravelledKm" : 1032925
   }, {
+    "timeStampUtc" : _0x1b62fa(200),
     "elapsedSeconds" : 1135680,
     "elapsedMinutes" : 18928,
     "elapsedHours" : 315.46667,
@@ -2937,6 +3181,7 @@
     "velocityKmSec" : .423,
     "distanceTravelledKm" : 1034450
   }, {
+    "timeStampUtc" : _0x1b62fa(196),
     "elapsedSeconds" : 1139280,
     "elapsedMinutes" : 18988,
     "elapsedHours" : 316.46667,
@@ -2946,6 +3191,7 @@
     "velocityKmSec" : .422,
     "distanceTravelledKm" : 1035971
   }, {
+    "timeStampUtc" : _0x1b62fa(165),
     "elapsedSeconds" : 1142880,
     "elapsedMinutes" : 19048,
     "elapsedHours" : 317.46667,
@@ -2955,6 +3201,7 @@
     "velocityKmSec" : .421,
     "distanceTravelledKm" : 1037488
   }, {
+    "timeStampUtc" : _0x1b62fa(255),
     "elapsedSeconds" : 1146480,
     "elapsedMinutes" : 19108,
     "elapsedHours" : 318.46667,
@@ -2964,6 +3211,7 @@
     "velocityKmSec" : .42,
     "distanceTravelledKm" : 1039001
   }, {
+    "timeStampUtc" : _0x1b62fa(153),
     "elapsedSeconds" : 1150080,
     "elapsedMinutes" : 19168,
     "elapsedHours" : 319.46667,
@@ -2973,6 +3221,7 @@
     "velocityKmSec" : .419,
     "distanceTravelledKm" : 1040511
   }, {
+    "timeStampUtc" : _0x1b62fa(422),
     "elapsedSeconds" : 1153680,
     "elapsedMinutes" : 19228,
     "elapsedHours" : 320.46667,
@@ -2982,6 +3231,7 @@
     "velocityKmSec" : .418,
     "distanceTravelledKm" : 1042017
   }, {
+    "timeStampUtc" : _0x1b62fa(483),
     "elapsedSeconds" : 1157280,
     "elapsedMinutes" : 19288,
     "elapsedHours" : 321.46667,
@@ -2991,6 +3241,7 @@
     "velocityKmSec" : .417,
     "distanceTravelledKm" : 1043519
   }, {
+    "timeStampUtc" : _0x1b62fa(420),
     "elapsedSeconds" : 1160880,
     "elapsedMinutes" : 19348,
     "elapsedHours" : 322.46667,
@@ -3000,6 +3251,7 @@
     "velocityKmSec" : .416,
     "distanceTravelledKm" : 1045018
   }, {
+    "timeStampUtc" : _0x1b62fa(562),
     "elapsedSeconds" : 1164480,
     "elapsedMinutes" : 19408,
     "elapsedHours" : 323.46667,
@@ -3009,6 +3261,7 @@
     "velocityKmSec" : .415,
     "distanceTravelledKm" : 1046513
   }, {
+    "timeStampUtc" : _0x1b62fa(162),
     "elapsedSeconds" : 1168080,
     "elapsedMinutes" : 19468,
     "elapsedHours" : 324.46667,
@@ -3028,6 +3281,7 @@
     "velocityKmSec" : .413,
     "distanceTravelledKm" : 1049492
   }, {
+    "timeStampUtc" : _0x1b62fa(503),
     "elapsedSeconds" : 1175280,
     "elapsedMinutes" : 19588,
     "elapsedHours" : 326.46667,
@@ -3037,6 +3291,7 @@
     "velocityKmSec" : .412,
     "distanceTravelledKm" : 1050977
   }, {
+    "timeStampUtc" : _0x1b62fa(188),
     "elapsedSeconds" : 1178880,
     "elapsedMinutes" : 19648,
     "elapsedHours" : 327.46667,
@@ -3046,6 +3301,7 @@
     "velocityKmSec" : .411,
     "distanceTravelledKm" : 1052457
   }, {
+    "timeStampUtc" : _0x1b62fa(540),
     "elapsedSeconds" : 1182480,
     "elapsedMinutes" : 19708,
     "elapsedHours" : 328.46667,
@@ -3055,6 +3311,7 @@
     "velocityKmSec" : .41,
     "distanceTravelledKm" : 1053934
   }, {
+    "timeStampUtc" : _0x1b62fa(601),
     "elapsedSeconds" : 1186080,
     "elapsedMinutes" : 19768,
     "elapsedHours" : 329.46667,
@@ -3064,6 +3321,7 @@
     "velocityKmSec" : .409,
     "distanceTravelledKm" : 1055408
   }, {
+    "timeStampUtc" : _0x1b62fa(505),
     "elapsedSeconds" : 1189680,
     "elapsedMinutes" : 19828,
     "elapsedHours" : 330.46667,
@@ -3073,6 +3331,7 @@
     "velocityKmSec" : .408,
     "distanceTravelledKm" : 1056878
   }, {
+    "timeStampUtc" : _0x1b62fa(441),
     "elapsedSeconds" : 1193280,
     "elapsedMinutes" : 19888,
     "elapsedHours" : 331.46667,
@@ -3082,6 +3341,7 @@
     "velocityKmSec" : .407,
     "distanceTravelledKm" : 1058345
   }, {
+    "timeStampUtc" : _0x1b62fa(184),
     "elapsedSeconds" : 1196880,
     "elapsedMinutes" : 19948,
     "elapsedHours" : 332.46667,
@@ -3091,6 +3351,7 @@
     "velocityKmSec" : .406,
     "distanceTravelledKm" : 1059808
   }, {
+    "timeStampUtc" : _0x1b62fa(512),
     "elapsedSeconds" : 1200480,
     "elapsedMinutes" : 20008,
     "elapsedHours" : 333.46667,
@@ -3100,6 +3361,7 @@
     "velocityKmSec" : .405,
     "distanceTravelledKm" : 1061267
   }, {
+    "timeStampUtc" : _0x1b62fa(663),
     "elapsedSeconds" : 1204080,
     "elapsedMinutes" : 20068,
     "elapsedHours" : 334.46667,
@@ -3109,6 +3371,7 @@
     "velocityKmSec" : .404,
     "distanceTravelledKm" : 1062724
   }, {
+    "timeStampUtc" : _0x1b62fa(151),
     "elapsedSeconds" : 1207680,
     "elapsedMinutes" : 20128,
     "elapsedHours" : 335.46667,
@@ -3118,6 +3381,7 @@
     "velocityKmSec" : .403,
     "distanceTravelledKm" : 1064176
   }, {
+    "timeStampUtc" : _0x1b62fa(595),
     "elapsedSeconds" : 1211280,
     "elapsedMinutes" : 20188,
     "elapsedHours" : 336.46667,
@@ -3127,6 +3391,7 @@
     "velocityKmSec" : .402,
     "distanceTravelledKm" : 1065626
   }, {
+    "timeStampUtc" : _0x1b62fa(361),
     "elapsedSeconds" : 1214880,
     "elapsedMinutes" : 20248,
     "elapsedHours" : 337.46667,
@@ -3136,6 +3401,7 @@
     "velocityKmSec" : .401,
     "distanceTravelledKm" : 1067072
   }, {
+    "timeStampUtc" : _0x1b62fa(449),
     "elapsedSeconds" : 1218480,
     "elapsedMinutes" : 20308,
     "elapsedHours" : 338.46667,
@@ -3145,6 +3411,7 @@
     "velocityKmSec" : .4,
     "distanceTravelledKm" : 1068514
   }, {
+    "timeStampUtc" : _0x1b62fa(427),
     "elapsedSeconds" : 1222080,
     "elapsedMinutes" : 20368,
     "elapsedHours" : 339.46667,
@@ -3164,6 +3431,7 @@
     "velocityKmSec" : .398,
     "distanceTravelledKm" : 1071389
   }, {
+    "timeStampUtc" : _0x1b62fa(500),
     "elapsedSeconds" : 1229280,
     "elapsedMinutes" : 20488,
     "elapsedHours" : 341.46667,
@@ -3173,6 +3441,7 @@
     "velocityKmSec" : .397,
     "distanceTravelledKm" : 1072822
   }, {
+    "timeStampUtc" : _0x1b62fa(627),
     "elapsedSeconds" : 1232880,
     "elapsedMinutes" : 20548,
     "elapsedHours" : 342.46667,
@@ -3182,6 +3451,7 @@
     "velocityKmSec" : .397,
     "distanceTravelledKm" : 1074251
   }, {
+    "timeStampUtc" : _0x1b62fa(338),
     "elapsedSeconds" : 1236480,
     "elapsedMinutes" : 20608,
     "elapsedHours" : 343.46667,
@@ -3191,6 +3461,7 @@
     "velocityKmSec" : .396,
     "distanceTravelledKm" : 1075677
   }, {
+    "timeStampUtc" : _0x1b62fa(223),
     "elapsedSeconds" : 1240080,
     "elapsedMinutes" : 20668,
     "elapsedHours" : 344.46667,
@@ -3200,6 +3471,7 @@
     "velocityKmSec" : .395,
     "distanceTravelledKm" : 1077100
   }, {
+    "timeStampUtc" : _0x1b62fa(182),
     "elapsedSeconds" : 1243680,
     "elapsedMinutes" : 20728,
     "elapsedHours" : 345.46667,
@@ -3209,6 +3481,7 @@
     "velocityKmSec" : .394,
     "distanceTravelledKm" : 1078519
   }, {
+    "timeStampUtc" : _0x1b62fa(421),
     "elapsedSeconds" : 1247280,
     "elapsedMinutes" : 20788,
     "elapsedHours" : 346.46667,
@@ -3228,6 +3501,7 @@
     "velocityKmSec" : .392,
     "distanceTravelledKm" : 1081348
   }, {
+    "timeStampUtc" : _0x1b62fa(122),
     "elapsedSeconds" : 1254480,
     "elapsedMinutes" : 20908,
     "elapsedHours" : 348.46667,
@@ -3247,6 +3521,7 @@
     "velocityKmSec" : .39,
     "distanceTravelledKm" : 1084164
   }, {
+    "timeStampUtc" : _0x1b62fa(621),
     "elapsedSeconds" : 1261680,
     "elapsedMinutes" : 21028,
     "elapsedHours" : 350.46667,
@@ -3256,6 +3531,7 @@
     "velocityKmSec" : .389,
     "distanceTravelledKm" : 1085568
   }, {
+    "timeStampUtc" : _0x1b62fa(141),
     "elapsedSeconds" : 1265280,
     "elapsedMinutes" : 21088,
     "elapsedHours" : 351.46667,
@@ -3265,6 +3541,7 @@
     "velocityKmSec" : .388,
     "distanceTravelledKm" : 1086968
   }, {
+    "timeStampUtc" : _0x1b62fa(531),
     "elapsedSeconds" : 1268880,
     "elapsedMinutes" : 21148,
     "elapsedHours" : 352.46667,
@@ -3274,6 +3551,7 @@
     "velocityKmSec" : .388,
     "distanceTravelledKm" : 1088365
   }, {
+    "timeStampUtc" : _0x1b62fa(639),
     "elapsedSeconds" : 1272480,
     "elapsedMinutes" : 21208,
     "elapsedHours" : 353.46667,
@@ -3283,6 +3561,7 @@
     "velocityKmSec" : .387,
     "distanceTravelledKm" : 1089759
   }, {
+    "timeStampUtc" : _0x1b62fa(481),
     "elapsedSeconds" : 1276080,
     "elapsedMinutes" : 21268,
     "elapsedHours" : 354.46667,
@@ -3292,6 +3571,7 @@
     "velocityKmSec" : .386,
     "distanceTravelledKm" : 1091149
   }, {
+    "timeStampUtc" : _0x1b62fa(297),
     "elapsedSeconds" : 1279680,
     "elapsedMinutes" : 21328,
     "elapsedHours" : 355.46667,
@@ -3301,6 +3581,7 @@
     "velocityKmSec" : .385,
     "distanceTravelledKm" : 1092537
   }, {
+    "timeStampUtc" : _0x1b62fa(600),
     "elapsedSeconds" : 1283280,
     "elapsedMinutes" : 21388,
     "elapsedHours" : 356.46667,
@@ -3330,6 +3611,7 @@
     "velocityKmSec" : .382,
     "distanceTravelledKm" : 1096681
   }, {
+    "timeStampUtc" : _0x1b62fa(478),
     "elapsedSeconds" : 1294080,
     "elapsedMinutes" : 21568,
     "elapsedHours" : 359.46667,
@@ -3349,6 +3631,7 @@
     "velocityKmSec" : .381,
     "distanceTravelledKm" : 1099429
   }, {
+    "timeStampUtc" : _0x1b62fa(367),
     "elapsedSeconds" : 1301280,
     "elapsedMinutes" : 21688,
     "elapsedHours" : 361.46667,
@@ -3358,6 +3641,7 @@
     "velocityKmSec" : .38,
     "distanceTravelledKm" : 1100798
   }, {
+    "timeStampUtc" : _0x1b62fa(323),
     "elapsedSeconds" : 1304880,
     "elapsedMinutes" : 21748,
     "elapsedHours" : 362.46667,
@@ -3377,6 +3661,7 @@
     "velocityKmSec" : .378,
     "distanceTravelledKm" : 1103528
   }, {
+    "timeStampUtc" : _0x1b62fa(372),
     "elapsedSeconds" : 1312080,
     "elapsedMinutes" : 21868,
     "elapsedHours" : 364.46667,
@@ -3386,6 +3671,7 @@
     "velocityKmSec" : .377,
     "distanceTravelledKm" : 1104888
   }, {
+    "timeStampUtc" : _0x1b62fa(510),
     "elapsedSeconds" : 1315680,
     "elapsedMinutes" : 21928,
     "elapsedHours" : 365.46667,
@@ -3395,6 +3681,7 @@
     "velocityKmSec" : .377,
     "distanceTravelledKm" : 1106245
   }, {
+    "timeStampUtc" : _0x1b62fa(231),
     "elapsedSeconds" : 1319280,
     "elapsedMinutes" : 21988,
     "elapsedHours" : 366.46667,
@@ -3404,6 +3691,7 @@
     "velocityKmSec" : .376,
     "distanceTravelledKm" : 1107599
   }, {
+    "timeStampUtc" : _0x1b62fa(650),
     "elapsedSeconds" : 1322880,
     "elapsedMinutes" : 22048,
     "elapsedHours" : 367.46667,
@@ -3413,6 +3701,7 @@
     "velocityKmSec" : .375,
     "distanceTravelledKm" : 1108951
   }, {
+    "timeStampUtc" : _0x1b62fa(125),
     "elapsedSeconds" : 1326480,
     "elapsedMinutes" : 22108,
     "elapsedHours" : 368.46667,
@@ -3422,6 +3711,7 @@
     "velocityKmSec" : .374,
     "distanceTravelledKm" : 1110299
   }, {
+    "timeStampUtc" : _0x1b62fa(682),
     "elapsedSeconds" : 1330080,
     "elapsedMinutes" : 22168,
     "elapsedHours" : 369.46667,
@@ -3431,6 +3721,7 @@
     "velocityKmSec" : .373,
     "distanceTravelledKm" : 1111644
   }, {
+    "timeStampUtc" : _0x1b62fa(494),
     "elapsedSeconds" : 1333680,
     "elapsedMinutes" : 22228,
     "elapsedHours" : 370.46667,
@@ -3440,6 +3731,7 @@
     "velocityKmSec" : .373,
     "distanceTravelledKm" : 1112987
   }, {
+    "timeStampUtc" : _0x1b62fa(270),
     "elapsedSeconds" : 1337280,
     "elapsedMinutes" : 22288,
     "elapsedHours" : 371.46667,
@@ -3449,6 +3741,7 @@
     "velocityKmSec" : .372,
     "distanceTravelledKm" : 1114327
   }, {
+    "timeStampUtc" : _0x1b62fa(263),
     "elapsedSeconds" : 1340880,
     "elapsedMinutes" : 22348,
     "elapsedHours" : 372.46667,
@@ -3468,6 +3761,7 @@
     "velocityKmSec" : .37,
     "distanceTravelledKm" : 1116997
   }, {
+    "timeStampUtc" : _0x1b62fa(389),
     "elapsedSeconds" : 1348080,
     "elapsedMinutes" : 22468,
     "elapsedHours" : 374.46667,
@@ -3487,6 +3781,7 @@
     "velocityKmSec" : .369,
     "distanceTravelledKm" : 1119656
   }, {
+    "timeStampUtc" : _0x1b62fa(426),
     "elapsedSeconds" : 1355280,
     "elapsedMinutes" : 22588,
     "elapsedHours" : 376.46667,
@@ -3496,6 +3791,7 @@
     "velocityKmSec" : .368,
     "distanceTravelledKm" : 1120982
   }, {
+    "timeStampUtc" : _0x1b62fa(333),
     "elapsedSeconds" : 1358880,
     "elapsedMinutes" : 22648,
     "elapsedHours" : 377.46667,
@@ -3515,6 +3811,7 @@
     "velocityKmSec" : .366,
     "distanceTravelledKm" : 1123624
   }, {
+    "timeStampUtc" : _0x1b62fa(670),
     "elapsedSeconds" : 1366080,
     "elapsedMinutes" : 22768,
     "elapsedHours" : 379.46667,
@@ -3524,6 +3821,7 @@
     "velocityKmSec" : .365,
     "distanceTravelledKm" : 1124941
   }, {
+    "timeStampUtc" : _0x1b62fa(528),
     "elapsedSeconds" : 1369680,
     "elapsedMinutes" : 22828,
     "elapsedHours" : 380.46667,
@@ -3533,6 +3831,7 @@
     "velocityKmSec" : .365,
     "distanceTravelledKm" : 1126255
   }, {
+    "timeStampUtc" : _0x1b62fa(653),
     "elapsedSeconds" : 1373280,
     "elapsedMinutes" : 22888,
     "elapsedHours" : 381.46667,
@@ -3562,6 +3861,7 @@
     "velocityKmSec" : .362,
     "distanceTravelledKm" : 1130180
   }, {
+    "timeStampUtc" : _0x1b62fa(167),
     "elapsedSeconds" : 1384080,
     "elapsedMinutes" : 23068,
     "elapsedHours" : 384.46667,
@@ -3571,6 +3871,7 @@
     "velocityKmSec" : .362,
     "distanceTravelledKm" : 1131483
   }, {
+    "timeStampUtc" : _0x1b62fa(220),
     "elapsedSeconds" : 1387680,
     "elapsedMinutes" : 23128,
     "elapsedHours" : 385.46667,
@@ -3590,6 +3891,7 @@
     "velocityKmSec" : .36,
     "distanceTravelledKm" : 1134081
   }, {
+    "timeStampUtc" : _0x1b62fa(675),
     "elapsedSeconds" : 1394880,
     "elapsedMinutes" : 23248,
     "elapsedHours" : 387.46667,
@@ -3609,6 +3911,7 @@
     "velocityKmSec" : .359,
     "distanceTravelledKm" : 1136668
   }, {
+    "timeStampUtc" : _0x1b62fa(377),
     "elapsedSeconds" : 1402080,
     "elapsedMinutes" : 23368,
     "elapsedHours" : 389.46667,
@@ -3628,6 +3931,7 @@
     "velocityKmSec" : .357,
     "distanceTravelledKm" : 1139244
   }, {
+    "timeStampUtc" : _0x1b62fa(418),
     "elapsedSeconds" : 1409280,
     "elapsedMinutes" : 23488,
     "elapsedHours" : 391.46667,
@@ -3637,6 +3941,7 @@
     "velocityKmSec" : .356,
     "distanceTravelledKm" : 1140528
   }, {
+    "timeStampUtc" : _0x1b62fa(318),
     "elapsedSeconds" : 1412880,
     "elapsedMinutes" : 23548,
     "elapsedHours" : 392.46667,
@@ -3646,6 +3951,7 @@
     "velocityKmSec" : .356,
     "distanceTravelledKm" : 1141810
   }, {
+    "timeStampUtc" : _0x1b62fa(319),
     "elapsedSeconds" : 1416480,
     "elapsedMinutes" : 23608,
     "elapsedHours" : 393.46667,
@@ -3655,6 +3961,7 @@
     "velocityKmSec" : .355,
     "distanceTravelledKm" : 1143089
   }, {
+    "timeStampUtc" : _0x1b62fa(545),
     "elapsedSeconds" : 1420080,
     "elapsedMinutes" : 23668,
     "elapsedHours" : 394.46667,
@@ -3664,6 +3971,7 @@
     "velocityKmSec" : .354,
     "distanceTravelledKm" : 1144365
   }, {
+    "timeStampUtc" : _0x1b62fa(592),
     "elapsedSeconds" : 1423680,
     "elapsedMinutes" : 23728,
     "elapsedHours" : 395.46667,
@@ -3683,6 +3991,7 @@
     "velocityKmSec" : .353,
     "distanceTravelledKm" : 1146909
   }, {
+    "timeStampUtc" : _0x1b62fa(470),
     "elapsedSeconds" : 1430880,
     "elapsedMinutes" : 23848,
     "elapsedHours" : 397.46667,
@@ -3692,6 +4001,7 @@
     "velocityKmSec" : .352,
     "distanceTravelledKm" : 1148177
   }, {
+    "timeStampUtc" : _0x1b62fa(327),
     "elapsedSeconds" : 1434480,
     "elapsedMinutes" : 23908,
     "elapsedHours" : 398.46667,
@@ -3701,6 +4011,7 @@
     "velocityKmSec" : .351,
     "distanceTravelledKm" : 1149443
   }, {
+    "timeStampUtc" : _0x1b62fa(169),
     "elapsedSeconds" : 1438080,
     "elapsedMinutes" : 23968,
     "elapsedHours" : 399.46667,
@@ -3710,6 +4021,7 @@
     "velocityKmSec" : .35,
     "distanceTravelledKm" : 1150706
   }, {
+    "timeStampUtc" : _0x1b62fa(683),
     "elapsedSeconds" : 1441680,
     "elapsedMinutes" : 24028,
     "elapsedHours" : 400.46667,
@@ -3719,6 +4031,7 @@
     "velocityKmSec" : .35,
     "distanceTravelledKm" : 1151966
   }, {
+    "timeStampUtc" : _0x1b62fa(316),
     "elapsedSeconds" : 1445280,
     "elapsedMinutes" : 24088,
     "elapsedHours" : 401.46667,
@@ -3748,6 +4061,7 @@
     "velocityKmSec" : .348,
     "distanceTravelledKm" : 1155732
   }, {
+    "timeStampUtc" : _0x1b62fa(419),
     "elapsedSeconds" : 1456080,
     "elapsedMinutes" : 24268,
     "elapsedHours" : 404.46667,
@@ -3757,6 +4071,7 @@
     "velocityKmSec" : .347,
     "distanceTravelledKm" : 1156982
   }, {
+    "timeStampUtc" : _0x1b62fa(611),
     "elapsedSeconds" : 1459680,
     "elapsedMinutes" : 24328,
     "elapsedHours" : 405.46667,
@@ -3786,6 +4101,7 @@
     "velocityKmSec" : .345,
     "distanceTravelledKm" : 1160718
   }, {
+    "timeStampUtc" : _0x1b62fa(198),
     "elapsedSeconds" : 1470480,
     "elapsedMinutes" : 24508,
     "elapsedHours" : 408.46667,
@@ -3795,6 +4111,7 @@
     "velocityKmSec" : .344,
     "distanceTravelledKm" : 1161958
   }, {
+    "timeStampUtc" : _0x1b62fa(642),
     "elapsedSeconds" : 1474080,
     "elapsedMinutes" : 24568,
     "elapsedHours" : 409.46667,
@@ -3804,6 +4121,7 @@
     "velocityKmSec" : .343,
     "distanceTravelledKm" : 1163195
   }, {
+    "timeStampUtc" : _0x1b62fa(131),
     "elapsedSeconds" : 1477680,
     "elapsedMinutes" : 24628,
     "elapsedHours" : 410.46667,
@@ -3833,6 +4151,7 @@
     "velocityKmSec" : .341,
     "distanceTravelledKm" : 1166893
   }, {
+    "timeStampUtc" : _0x1b62fa(149),
     "elapsedSeconds" : 1488480,
     "elapsedMinutes" : 24808,
     "elapsedHours" : 413.46667,
@@ -3842,6 +4161,7 @@
     "velocityKmSec" : .341,
     "distanceTravelledKm" : 1168121
   }, {
+    "timeStampUtc" : _0x1b62fa(658),
     "elapsedSeconds" : 1492080,
     "elapsedMinutes" : 24868,
     "elapsedHours" : 414.46667,
@@ -3871,6 +4191,7 @@
     "velocityKmSec" : .339,
     "distanceTravelledKm" : 1171789
   }, {
+    "timeStampUtc" : _0x1b62fa(479),
     "elapsedSeconds" : 1502880,
     "elapsedMinutes" : 25048,
     "elapsedHours" : 417.46667,
@@ -3880,6 +4201,7 @@
     "velocityKmSec" : .338,
     "distanceTravelledKm" : 1173007
   }, {
+    "timeStampUtc" : _0x1b62fa(416),
     "elapsedSeconds" : 1506480,
     "elapsedMinutes" : 25108,
     "elapsedHours" : 418.46667,
@@ -3889,6 +4211,7 @@
     "velocityKmSec" : .337,
     "distanceTravelledKm" : 1174222
   }, {
+    "timeStampUtc" : _0x1b62fa(235),
     "elapsedSeconds" : 1510080,
     "elapsedMinutes" : 25168,
     "elapsedHours" : 419.46667,
@@ -3908,6 +4231,7 @@
     "velocityKmSec" : .336,
     "distanceTravelledKm" : 1176645
   }, {
+    "timeStampUtc" : _0x1b62fa(154),
     "elapsedSeconds" : 1517280,
     "elapsedMinutes" : 25288,
     "elapsedHours" : 421.46667,
@@ -3927,6 +4251,7 @@
     "velocityKmSec" : .335,
     "distanceTravelledKm" : 1179059
   }, {
+    "timeStampUtc" : _0x1b62fa(324),
     "elapsedSeconds" : 1524480,
     "elapsedMinutes" : 25408,
     "elapsedHours" : 423.46667,
@@ -3936,6 +4261,7 @@
     "velocityKmSec" : .334,
     "distanceTravelledKm" : 1180263
   }, {
+    "timeStampUtc" : _0x1b62fa(406),
     "elapsedSeconds" : 1528080,
     "elapsedMinutes" : 25468,
     "elapsedHours" : 424.46667,
@@ -3955,6 +4281,7 @@
     "velocityKmSec" : .333,
     "distanceTravelledKm" : 1182662
   }, {
+    "timeStampUtc" : _0x1b62fa(660),
     "elapsedSeconds" : 1535280,
     "elapsedMinutes" : 25588,
     "elapsedHours" : 426.46667,
@@ -3964,6 +4291,7 @@
     "velocityKmSec" : .332,
     "distanceTravelledKm" : 1183858
   }, {
+    "timeStampUtc" : _0x1b62fa(336),
     "elapsedSeconds" : 1538880,
     "elapsedMinutes" : 25648,
     "elapsedHours" : 427.46667,
@@ -3983,6 +4311,7 @@
     "velocityKmSec" : .331,
     "distanceTravelledKm" : 1186244
   }, {
+    "timeStampUtc" : _0x1b62fa(579),
     "elapsedSeconds" : 1546080,
     "elapsedMinutes" : 25768,
     "elapsedHours" : 429.46667,
@@ -3992,6 +4321,7 @@
     "velocityKmSec" : .33,
     "distanceTravelledKm" : 1187433
   }, {
+    "timeStampUtc" : _0x1b62fa(681),
     "elapsedSeconds" : 1549680,
     "elapsedMinutes" : 25828,
     "elapsedHours" : 430.46667,
@@ -4001,6 +4331,7 @@
     "velocityKmSec" : .329,
     "distanceTravelledKm" : 1188620
   }, {
+    "timeStampUtc" : _0x1b62fa(475),
     "elapsedSeconds" : 1553280,
     "elapsedMinutes" : 25888,
     "elapsedHours" : 431.46667,
@@ -4010,6 +4341,7 @@
     "velocityKmSec" : .329,
     "distanceTravelledKm" : 1189804
   }, {
+    "timeStampUtc" : _0x1b62fa(607),
     "elapsedSeconds" : 1556880,
     "elapsedMinutes" : 25948,
     "elapsedHours" : 432.46667,
@@ -4019,6 +4351,7 @@
     "velocityKmSec" : .328,
     "distanceTravelledKm" : 1190986
   }, {
+    "timeStampUtc" : _0x1b62fa(273),
     "elapsedSeconds" : 1560480,
     "elapsedMinutes" : 26008,
     "elapsedHours" : 433.46667,
@@ -4048,6 +4381,7 @@
     "velocityKmSec" : .326,
     "distanceTravelledKm" : 1194519
   }, {
+    "timeStampUtc" : _0x1b62fa(625),
     "elapsedSeconds" : 1571280,
     "elapsedMinutes" : 26188,
     "elapsedHours" : 436.46667,
@@ -4057,6 +4391,7 @@
     "velocityKmSec" : .325,
     "distanceTravelledKm" : 1195692
   }, {
+    "timeStampUtc" : _0x1b62fa(284),
     "elapsedSeconds" : 1574880,
     "elapsedMinutes" : 26248,
     "elapsedHours" : 437.46667,
@@ -4066,6 +4401,7 @@
     "velocityKmSec" : .325,
     "distanceTravelledKm" : 1196862
   }, {
+    "timeStampUtc" : _0x1b62fa(532),
     "elapsedSeconds" : 1578480,
     "elapsedMinutes" : 26308,
     "elapsedHours" : 438.46667,
@@ -4075,6 +4411,7 @@
     "velocityKmSec" : .324,
     "distanceTravelledKm" : 1198031
   }, {
+    "timeStampUtc" : _0x1b62fa(671),
     "elapsedSeconds" : 1582080,
     "elapsedMinutes" : 26368,
     "elapsedHours" : 439.46667,
@@ -4084,6 +4421,7 @@
     "velocityKmSec" : .324,
     "distanceTravelledKm" : 1199197
   }, {
+    "timeStampUtc" : _0x1b62fa(556),
     "elapsedSeconds" : 1585680,
     "elapsedMinutes" : 26428,
     "elapsedHours" : 440.46667,
@@ -4093,6 +4431,7 @@
     "velocityKmSec" : .323,
     "distanceTravelledKm" : 1200360
   }, {
+    "timeStampUtc" : _0x1b62fa(280),
     "elapsedSeconds" : 1589280,
     "elapsedMinutes" : 26488,
     "elapsedHours" : 441.46667,
@@ -4102,6 +4441,7 @@
     "velocityKmSec" : .322,
     "distanceTravelledKm" : 1201522
   }, {
+    "timeStampUtc" : _0x1b62fa(581),
     "elapsedSeconds" : 1592880,
     "elapsedMinutes" : 26548,
     "elapsedHours" : 442.46667,
@@ -4111,6 +4451,7 @@
     "velocityKmSec" : .322,
     "distanceTravelledKm" : 1202681
   }, {
+    "timeStampUtc" : _0x1b62fa(472),
     "elapsedSeconds" : 1596480,
     "elapsedMinutes" : 26608,
     "elapsedHours" : 443.46667,
@@ -4120,6 +4461,7 @@
     "velocityKmSec" : .321,
     "distanceTravelledKm" : 1203838
   }, {
+    "timeStampUtc" : _0x1b62fa(564),
     "elapsedSeconds" : 1600080,
     "elapsedMinutes" : 26668,
     "elapsedHours" : 444.46667,
@@ -4129,6 +4471,7 @@
     "velocityKmSec" : .32,
     "distanceTravelledKm" : 1204993
   }, {
+    "timeStampUtc" : _0x1b62fa(189),
     "elapsedSeconds" : 1603680,
     "elapsedMinutes" : 26728,
     "elapsedHours" : 445.46667,
@@ -4138,6 +4481,7 @@
     "velocityKmSec" : .32,
     "distanceTravelledKm" : 1206145
   }, {
+    "timeStampUtc" : _0x1b62fa(311),
     "elapsedSeconds" : 1607280,
     "elapsedMinutes" : 26788,
     "elapsedHours" : 446.46667,
@@ -4147,6 +4491,7 @@
     "velocityKmSec" : .319,
     "distanceTravelledKm" : 1207296
   }, {
+    "timeStampUtc" : _0x1b62fa(387),
     "elapsedSeconds" : 1610880,
     "elapsedMinutes" : 26848,
     "elapsedHours" : 447.46667,
@@ -4156,6 +4501,7 @@
     "velocityKmSec" : .319,
     "distanceTravelledKm" : 1208444
   }, {
+    "timeStampUtc" : _0x1b62fa(267),
     "elapsedSeconds" : 1614480,
     "elapsedMinutes" : 26908,
     "elapsedHours" : 448.46667,
@@ -4175,6 +4521,7 @@
     "velocityKmSec" : .317,
     "distanceTravelledKm" : 1210733
   }, {
+    "timeStampUtc" : _0x1b62fa(177),
     "elapsedSeconds" : 1621680,
     "elapsedMinutes" : 27028,
     "elapsedHours" : 450.46667,
@@ -4194,6 +4541,7 @@
     "velocityKmSec" : .316,
     "distanceTravelledKm" : 1213014
   }, {
+    "timeStampUtc" : _0x1b62fa(293),
     "elapsedSeconds" : 1628880,
     "elapsedMinutes" : 27148,
     "elapsedHours" : 452.46667,
@@ -4203,6 +4551,7 @@
     "velocityKmSec" : .316,
     "distanceTravelledKm" : 1214151
   }, {
+    "timeStampUtc" : _0x1b62fa(485),
     "elapsedSeconds" : 1632480,
     "elapsedMinutes" : 27208,
     "elapsedHours" : 453.46667,
@@ -4212,6 +4561,7 @@
     "velocityKmSec" : .315,
     "distanceTravelledKm" : 1215286
   }, {
+    "timeStampUtc" : _0x1b62fa(573),
     "elapsedSeconds" : 1636080,
     "elapsedMinutes" : 27268,
     "elapsedHours" : 454.46667,
@@ -4221,6 +4571,7 @@
     "velocityKmSec" : .314,
     "distanceTravelledKm" : 1216418
   }, {
+    "timeStampUtc" : _0x1b62fa(667),
     "elapsedSeconds" : 1639680,
     "elapsedMinutes" : 27328,
     "elapsedHours" : 455.46667,
@@ -4230,6 +4581,7 @@
     "velocityKmSec" : .314,
     "distanceTravelledKm" : 1217549
   }, {
+    "timeStampUtc" : _0x1b62fa(209),
     "elapsedSeconds" : 1643280,
     "elapsedMinutes" : 27388,
     "elapsedHours" : 456.46667,
@@ -4239,6 +4591,7 @@
     "velocityKmSec" : .313,
     "distanceTravelledKm" : 1218677
   }, {
+    "timeStampUtc" : _0x1b62fa(622),
     "elapsedSeconds" : 1646880,
     "elapsedMinutes" : 27448,
     "elapsedHours" : 457.46667,
@@ -4248,6 +4601,7 @@
     "velocityKmSec" : .313,
     "distanceTravelledKm" : 1219803
   }, {
+    "timeStampUtc" : _0x1b62fa(610),
     "elapsedSeconds" : 1650480,
     "elapsedMinutes" : 27508,
     "elapsedHours" : 458.46667,
@@ -4257,6 +4611,7 @@
     "velocityKmSec" : .312,
     "distanceTravelledKm" : 1220927
   }, {
+    "timeStampUtc" : _0x1b62fa(315),
     "elapsedSeconds" : 1654080,
     "elapsedMinutes" : 27568,
     "elapsedHours" : 459.46667,
@@ -4276,6 +4631,7 @@
     "velocityKmSec" : .311,
     "distanceTravelledKm" : 1223169
   }, {
+    "timeStampUtc" : _0x1b62fa(497),
     "elapsedSeconds" : 1661280,
     "elapsedMinutes" : 27688,
     "elapsedHours" : 461.46667,
@@ -4285,6 +4641,7 @@
     "velocityKmSec" : .31,
     "distanceTravelledKm" : 1224286
   }, {
+    "timeStampUtc" : _0x1b62fa(668),
     "elapsedSeconds" : 1664880,
     "elapsedMinutes" : 27748,
     "elapsedHours" : 462.46667,
@@ -4294,6 +4651,7 @@
     "velocityKmSec" : .31,
     "distanceTravelledKm" : 1225401
   }, {
+    "timeStampUtc" : _0x1b62fa(455),
     "elapsedSeconds" : 1668480,
     "elapsedMinutes" : 27808,
     "elapsedHours" : 463.46667,
@@ -4303,6 +4661,7 @@
     "velocityKmSec" : .309,
     "distanceTravelledKm" : 1226515
   }, {
+    "timeStampUtc" : _0x1b62fa(304),
     "elapsedSeconds" : 1672080,
     "elapsedMinutes" : 27868,
     "elapsedHours" : 464.46667,
@@ -4312,6 +4671,7 @@
     "velocityKmSec" : .308,
     "distanceTravelledKm" : 1227626
   }, {
+    "timeStampUtc" : _0x1b62fa(495),
     "elapsedSeconds" : 1675680,
     "elapsedMinutes" : 27928,
     "elapsedHours" : 465.46667,
@@ -4321,6 +4681,7 @@
     "velocityKmSec" : .308,
     "distanceTravelledKm" : 1228735
   }, {
+    "timeStampUtc" : _0x1b62fa(415),
     "elapsedSeconds" : 1679280,
     "elapsedMinutes" : 27988,
     "elapsedHours" : 466.46667,
@@ -4330,6 +4691,7 @@
     "velocityKmSec" : .307,
     "distanceTravelledKm" : 1229842
   }, {
+    "timeStampUtc" : _0x1b62fa(677),
     "elapsedSeconds" : 1682880,
     "elapsedMinutes" : 28048,
     "elapsedHours" : 467.46667,
@@ -4339,6 +4701,7 @@
     "velocityKmSec" : .307,
     "distanceTravelledKm" : 1230946
   }, {
+    "timeStampUtc" : _0x1b62fa(242),
     "elapsedSeconds" : 1686480,
     "elapsedMinutes" : 28108,
     "elapsedHours" : 468.46667,
@@ -4348,6 +4711,7 @@
     "velocityKmSec" : .306,
     "distanceTravelledKm" : 1232049
   }, {
+    "timeStampUtc" : _0x1b62fa(237),
     "elapsedSeconds" : 1690080,
     "elapsedMinutes" : 28168,
     "elapsedHours" : 469.46667,
@@ -4357,6 +4721,7 @@
     "velocityKmSec" : .305,
     "distanceTravelledKm" : 1233150
   }, {
+    "timeStampUtc" : _0x1b62fa(446),
     "elapsedSeconds" : 1693680,
     "elapsedMinutes" : 28228,
     "elapsedHours" : 470.46667,
@@ -4366,6 +4731,7 @@
     "velocityKmSec" : .305,
     "distanceTravelledKm" : 1234248
   }, {
+    "timeStampUtc" : _0x1b62fa(394),
     "elapsedSeconds" : 1697280,
     "elapsedMinutes" : 28288,
     "elapsedHours" : 471.46667,
@@ -4375,6 +4741,7 @@
     "velocityKmSec" : .304,
     "distanceTravelledKm" : 1235345
   }, {
+    "timeStampUtc" : _0x1b62fa(463),
     "elapsedSeconds" : 1700880,
     "elapsedMinutes" : 28348,
     "elapsedHours" : 472.46667,
@@ -4384,6 +4751,7 @@
     "velocityKmSec" : .304,
     "distanceTravelledKm" : 1236439
   }, {
+    "timeStampUtc" : _0x1b62fa(300),
     "elapsedSeconds" : 1704480,
     "elapsedMinutes" : 28408,
     "elapsedHours" : 473.46667,
@@ -4393,6 +4761,7 @@
     "velocityKmSec" : .303,
     "distanceTravelledKm" : 1237531
   }, {
+    "timeStampUtc" : _0x1b62fa(371),
     "elapsedSeconds" : 1708080,
     "elapsedMinutes" : 28468,
     "elapsedHours" : 474.46667,
@@ -4402,6 +4771,7 @@
     "velocityKmSec" : .303,
     "distanceTravelledKm" : 1238621
   }, {
+    "timeStampUtc" : _0x1b62fa(214),
     "elapsedSeconds" : 1711680,
     "elapsedMinutes" : 28528,
     "elapsedHours" : 475.46667,
@@ -4411,6 +4781,7 @@
     "velocityKmSec" : .302,
     "distanceTravelledKm" : 1239709
   }, {
+    "timeStampUtc" : _0x1b62fa(238),
     "elapsedSeconds" : 1715280,
     "elapsedMinutes" : 28588,
     "elapsedHours" : 476.46667,
@@ -4420,6 +4791,7 @@
     "velocityKmSec" : .301,
     "distanceTravelledKm" : 1240795
   }, {
+    "timeStampUtc" : _0x1b62fa(269),
     "elapsedSeconds" : 1718880,
     "elapsedMinutes" : 28648,
     "elapsedHours" : 477.46667,
@@ -4429,6 +4801,7 @@
     "velocityKmSec" : .301,
     "distanceTravelledKm" : 1241879
   }, {
+    "timeStampUtc" : _0x1b62fa(560),
     "elapsedSeconds" : 1722480,
     "elapsedMinutes" : 28708,
     "elapsedHours" : 478.46667,
@@ -4438,6 +4811,7 @@
     "velocityKmSec" : .3,
     "distanceTravelledKm" : 1242961
   }, {
+    "timeStampUtc" : _0x1b62fa(264),
     "elapsedSeconds" : 1726080,
     "elapsedMinutes" : 28768,
     "elapsedHours" : 479.46667,
@@ -4447,6 +4821,7 @@
     "velocityKmSec" : .3,
     "distanceTravelledKm" : 1244041
   }, {
+    "timeStampUtc" : _0x1b62fa(308),
     "elapsedSeconds" : 1729680,
     "elapsedMinutes" : 28828,
     "elapsedHours" : 480.46667,
@@ -4456,6 +4831,7 @@
     "velocityKmSec" : .299,
     "distanceTravelledKm" : 1245119
   }, {
+    "timeStampUtc" : _0x1b62fa(404),
     "elapsedSeconds" : 1733280,
     "elapsedMinutes" : 28888,
     "elapsedHours" : 481.46667,
@@ -4475,6 +4851,7 @@
     "velocityKmSec" : .298,
     "distanceTravelledKm" : 1247269
   }, {
+    "timeStampUtc" : _0x1b62fa(262),
     "elapsedSeconds" : 1740480,
     "elapsedMinutes" : 29008,
     "elapsedHours" : 483.46667,
@@ -4484,6 +4861,7 @@
     "velocityKmSec" : .297,
     "distanceTravelledKm" : 1248340
   }, {
+    "timeStampUtc" : _0x1b62fa(313),
     "elapsedSeconds" : 1744080,
     "elapsedMinutes" : 29068,
     "elapsedHours" : 484.46667,
@@ -4493,6 +4871,7 @@
     "velocityKmSec" : .297,
     "distanceTravelledKm" : 1249410
   }, {
+    "timeStampUtc" : _0x1b62fa(229),
     "elapsedSeconds" : 1747680,
     "elapsedMinutes" : 29128,
     "elapsedHours" : 485.46667,
@@ -4512,6 +4891,7 @@
     "velocityKmSec" : .296,
     "distanceTravelledKm" : 1251544
   }, {
+    "timeStampUtc" : _0x1b62fa(464),
     "elapsedSeconds" : 1754880,
     "elapsedMinutes" : 29248,
     "elapsedHours" : 487.46667,
@@ -4541,6 +4921,7 @@
     "velocityKmSec" : .294,
     "distanceTravelledKm" : 1254729
   }, {
+    "timeStampUtc" : _0x1b62fa(322),
     "elapsedSeconds" : 1765680,
     "elapsedMinutes" : 29428,
     "elapsedHours" : 490.46667,
@@ -4550,6 +4931,7 @@
     "velocityKmSec" : .294,
     "distanceTravelledKm" : 1255786
   }, {
+    "timeStampUtc" : _0x1b62fa(370),
     "elapsedSeconds" : 1769280,
     "elapsedMinutes" : 29488,
     "elapsedHours" : 491.46667,
@@ -4569,6 +4951,7 @@
     "velocityKmSec" : .292,
     "distanceTravelledKm" : 1257896
   }, {
+    "timeStampUtc" : _0x1b62fa(174),
     "elapsedSeconds" : 1776480,
     "elapsedMinutes" : 29608,
     "elapsedHours" : 493.46667,
@@ -4578,6 +4961,7 @@
     "velocityKmSec" : .292,
     "distanceTravelledKm" : 1258948
   }, {
+    "timeStampUtc" : _0x1b62fa(232),
     "elapsedSeconds" : 1780080,
     "elapsedMinutes" : 29668,
     "elapsedHours" : 494.46667,
@@ -4587,6 +4971,7 @@
     "velocityKmSec" : .291,
     "distanceTravelledKm" : 1259998
   }, {
+    "timeStampUtc" : _0x1b62fa(396),
     "elapsedSeconds" : 1783680,
     "elapsedMinutes" : 29728,
     "elapsedHours" : 495.46667,
@@ -4596,6 +4981,7 @@
     "velocityKmSec" : .291,
     "distanceTravelledKm" : 1261046
   }, {
+    "timeStampUtc" : _0x1b62fa(356),
     "elapsedSeconds" : 1787280,
     "elapsedMinutes" : 29788,
     "elapsedHours" : 496.46667,
@@ -4605,6 +4991,7 @@
     "velocityKmSec" : .29,
     "distanceTravelledKm" : 1262092
   }, {
+    "timeStampUtc" : _0x1b62fa(609),
     "elapsedSeconds" : 1790880,
     "elapsedMinutes" : 29848,
     "elapsedHours" : 497.46667,
@@ -4614,6 +5001,7 @@
     "velocityKmSec" : .29,
     "distanceTravelledKm" : 1263135
   }, {
+    "timeStampUtc" : _0x1b62fa(203),
     "elapsedSeconds" : 1794480,
     "elapsedMinutes" : 29908,
     "elapsedHours" : 498.46667,
@@ -4623,6 +5011,7 @@
     "velocityKmSec" : .289,
     "distanceTravelledKm" : 1264178
   }, {
+    "timeStampUtc" : _0x1b62fa(379),
     "elapsedSeconds" : 1798080,
     "elapsedMinutes" : 29968,
     "elapsedHours" : 499.46667,
@@ -4632,6 +5021,7 @@
     "velocityKmSec" : .289,
     "distanceTravelledKm" : 1265218
   }, {
+    "timeStampUtc" : _0x1b62fa(586),
     "elapsedSeconds" : 1801680,
     "elapsedMinutes" : 30028,
     "elapsedHours" : 500.46667,
@@ -4641,6 +5031,7 @@
     "velocityKmSec" : .288,
     "distanceTravelledKm" : 1266256
   }, {
+    "timeStampUtc" : _0x1b62fa(168),
     "elapsedSeconds" : 1805280,
     "elapsedMinutes" : 30088,
     "elapsedHours" : 501.46667,
@@ -4650,6 +5041,7 @@
     "velocityKmSec" : .288,
     "distanceTravelledKm" : 1267292
   }, {
+    "timeStampUtc" : _0x1b62fa(529),
     "elapsedSeconds" : 1808880,
     "elapsedMinutes" : 30148,
     "elapsedHours" : 502.46667,
@@ -4659,6 +5051,7 @@
     "velocityKmSec" : .287,
     "distanceTravelledKm" : 1268326
   }, {
+    "timeStampUtc" : _0x1b62fa(509),
     "elapsedSeconds" : 1812480,
     "elapsedMinutes" : 30208,
     "elapsedHours" : 503.46667,
@@ -4668,6 +5061,7 @@
     "velocityKmSec" : .286,
     "distanceTravelledKm" : 1269359
   }, {
+    "timeStampUtc" : _0x1b62fa(565),
     "elapsedSeconds" : 1816080,
     "elapsedMinutes" : 30268,
     "elapsedHours" : 504.46667,
@@ -4677,6 +5071,7 @@
     "velocityKmSec" : .286,
     "distanceTravelledKm" : 1270389
   }, {
+    "timeStampUtc" : _0x1b62fa(164),
     "elapsedSeconds" : 1819680,
     "elapsedMinutes" : 30328,
     "elapsedHours" : 505.46667,
@@ -4686,6 +5081,7 @@
     "velocityKmSec" : .285,
     "distanceTravelledKm" : 1271418
   }, {
+    "timeStampUtc" : _0x1b62fa(435),
     "elapsedSeconds" : 1823280,
     "elapsedMinutes" : 30388,
     "elapsedHours" : 506.46667,
@@ -4695,6 +5091,7 @@
     "velocityKmSec" : .285,
     "distanceTravelledKm" : 1272444
   }, {
+    "timeStampUtc" : _0x1b62fa(453),
     "elapsedSeconds" : 1826880,
     "elapsedMinutes" : 30448,
     "elapsedHours" : 507.46667,
@@ -4714,6 +5111,7 @@
     "velocityKmSec" : .284,
     "distanceTravelledKm" : 1274492
   }, {
+    "timeStampUtc" : _0x1b62fa(542),
     "elapsedSeconds" : 1834080,
     "elapsedMinutes" : 30568,
     "elapsedHours" : 509.46667,
@@ -4723,6 +5121,7 @@
     "velocityKmSec" : .283,
     "distanceTravelledKm" : 1275513
   }, {
+    "timeStampUtc" : _0x1b62fa(289),
     "elapsedSeconds" : 1837680,
     "elapsedMinutes" : 30628,
     "elapsedHours" : 510.46667,
@@ -4732,6 +5131,7 @@
     "velocityKmSec" : .283,
     "distanceTravelledKm" : 1276532
   }, {
+    "timeStampUtc" : _0x1b62fa(543),
     "elapsedSeconds" : 1841280,
     "elapsedMinutes" : 30688,
     "elapsedHours" : 511.46667,
@@ -4741,6 +5141,7 @@
     "velocityKmSec" : .282,
     "distanceTravelledKm" : 1277549
   }, {
+    "timeStampUtc" : _0x1b62fa(648),
     "elapsedSeconds" : 1844880,
     "elapsedMinutes" : 30748,
     "elapsedHours" : 512.46667,
@@ -4750,6 +5151,7 @@
     "velocityKmSec" : .282,
     "distanceTravelledKm" : 1278564
   }, {
+    "timeStampUtc" : _0x1b62fa(644),
     "elapsedSeconds" : 1848480,
     "elapsedMinutes" : 30808,
     "elapsedHours" : 513.46667,
@@ -4759,6 +5161,7 @@
     "velocityKmSec" : .281,
     "distanceTravelledKm" : 1279577
   }, {
+    "timeStampUtc" : _0x1b62fa(442),
     "elapsedSeconds" : 1852080,
     "elapsedMinutes" : 30868,
     "elapsedHours" : 514.46667,
@@ -4768,6 +5171,7 @@
     "velocityKmSec" : .281,
     "distanceTravelledKm" : 1280589
   }, {
+    "timeStampUtc" : _0x1b62fa(597),
     "elapsedSeconds" : 1855680,
     "elapsedMinutes" : 30928,
     "elapsedHours" : 515.46667,
@@ -4787,6 +5191,7 @@
     "velocityKmSec" : .28,
     "distanceTravelledKm" : 1282606
   }, {
+    "timeStampUtc" : _0x1b62fa(210),
     "elapsedSeconds" : 1862880,
     "elapsedMinutes" : 31048,
     "elapsedHours" : 517.46667,
@@ -4796,6 +5201,7 @@
     "velocityKmSec" : .279,
     "distanceTravelledKm" : 1283612
   }, {
+    "timeStampUtc" : _0x1b62fa(228),
     "elapsedSeconds" : 1866480,
     "elapsedMinutes" : 31108,
     "elapsedHours" : 518.46667,
@@ -4805,6 +5211,7 @@
     "velocityKmSec" : .279,
     "distanceTravelledKm" : 1284616
   }, {
+    "timeStampUtc" : _0x1b62fa(414),
     "elapsedSeconds" : 1870080,
     "elapsedMinutes" : 31168,
     "elapsedHours" : 519.46667,
@@ -4814,6 +5221,7 @@
     "velocityKmSec" : .278,
     "distanceTravelledKm" : 1285619
   }, {
+    "timeStampUtc" : _0x1b62fa(649),
     "elapsedSeconds" : 1873680,
     "elapsedMinutes" : 31228,
     "elapsedHours" : 520.46667,
@@ -4823,6 +5231,7 @@
     "velocityKmSec" : .278,
     "distanceTravelledKm" : 1286619
   }, {
+    "timeStampUtc" : _0x1b62fa(369),
     "elapsedSeconds" : 1877280,
     "elapsedMinutes" : 31288,
     "elapsedHours" : 521.46667,
@@ -4832,6 +5241,7 @@
     "velocityKmSec" : .277,
     "distanceTravelledKm" : 1287617
   }, {
+    "timeStampUtc" : _0x1b62fa(454),
     "elapsedSeconds" : 1880880,
     "elapsedMinutes" : 31348,
     "elapsedHours" : 522.46667,
@@ -4841,6 +5251,7 @@
     "velocityKmSec" : .277,
     "distanceTravelledKm" : 1288614
   }, {
+    "timeStampUtc" : _0x1b62fa(376),
     "elapsedSeconds" : 1884480,
     "elapsedMinutes" : 31408,
     "elapsedHours" : 523.46667,
@@ -4850,6 +5261,7 @@
     "velocityKmSec" : .276,
     "distanceTravelledKm" : 1289609
   }, {
+    "timeStampUtc" : _0x1b62fa(570),
     "elapsedSeconds" : 1888080,
     "elapsedMinutes" : 31468,
     "elapsedHours" : 524.46667,
@@ -4869,6 +5281,7 @@
     "velocityKmSec" : .275,
     "distanceTravelledKm" : 1291593
   }, {
+    "timeStampUtc" : _0x1b62fa(468),
     "elapsedSeconds" : 1895280,
     "elapsedMinutes" : 31588,
     "elapsedHours" : 526.46667,
@@ -4878,6 +5291,7 @@
     "velocityKmSec" : .275,
     "distanceTravelledKm" : 1292583
   }, {
+    "timeStampUtc" : _0x1b62fa(248),
     "elapsedSeconds" : 1898880,
     "elapsedMinutes" : 31648,
     "elapsedHours" : 527.46667,
@@ -4897,6 +5311,7 @@
     "velocityKmSec" : .274,
     "distanceTravelledKm" : 1294556
   }, {
+    "timeStampUtc" : _0x1b62fa(651),
     "elapsedSeconds" : 1906080,
     "elapsedMinutes" : 31768,
     "elapsedHours" : 529.46667,
@@ -4906,6 +5321,7 @@
     "velocityKmSec" : .273,
     "distanceTravelledKm" : 1295540
   }, {
+    "timeStampUtc" : _0x1b62fa(183),
     "elapsedSeconds" : 1909680,
     "elapsedMinutes" : 31828,
     "elapsedHours" : 530.46667,
@@ -4915,6 +5331,7 @@
     "velocityKmSec" : .273,
     "distanceTravelledKm" : 1296522
   }, {
+    "timeStampUtc" : _0x1b62fa(208),
     "elapsedSeconds" : 1913280,
     "elapsedMinutes" : 31888,
     "elapsedHours" : 531.46667,
@@ -4924,6 +5341,7 @@
     "velocityKmSec" : .272,
     "distanceTravelledKm" : 1297503
   }, {
+    "timeStampUtc" : _0x1b62fa(298),
     "elapsedSeconds" : 1916880,
     "elapsedMinutes" : 31948,
     "elapsedHours" : 532.46667,
@@ -4933,6 +5351,7 @@
     "velocityKmSec" : .272,
     "distanceTravelledKm" : 1298481
   }, {
+    "timeStampUtc" : _0x1b62fa(484),
     "elapsedSeconds" : 1920480,
     "elapsedMinutes" : 32008,
     "elapsedHours" : 533.46667,
@@ -4952,6 +5371,7 @@
     "velocityKmSec" : .271,
     "distanceTravelledKm" : 1300433
   }, {
+    "timeStampUtc" : _0x1b62fa(136),
     "elapsedSeconds" : 1927680,
     "elapsedMinutes" : 32128,
     "elapsedHours" : 535.46667,
@@ -4961,6 +5381,7 @@
     "velocityKmSec" : .27,
     "distanceTravelledKm" : 1301407
   }, {
+    "timeStampUtc" : _0x1b62fa(366),
     "elapsedSeconds" : 1931280,
     "elapsedMinutes" : 32188,
     "elapsedHours" : 536.46667,
@@ -4970,6 +5391,7 @@
     "velocityKmSec" : .27,
     "distanceTravelledKm" : 1302378
   }, {
+    "timeStampUtc" : _0x1b62fa(180),
     "elapsedSeconds" : 1934880,
     "elapsedMinutes" : 32248,
     "elapsedHours" : 537.46667,
@@ -4979,6 +5401,7 @@
     "velocityKmSec" : .269,
     "distanceTravelledKm" : 1303348
   }, {
+    "timeStampUtc" : _0x1b62fa(517),
     "elapsedSeconds" : 1938480,
     "elapsedMinutes" : 32308,
     "elapsedHours" : 538.46667,
@@ -4998,6 +5421,7 @@
     "velocityKmSec" : .268,
     "distanceTravelledKm" : 1305282
   }, {
+    "timeStampUtc" : _0x1b62fa(474),
     "elapsedSeconds" : 1945680,
     "elapsedMinutes" : 32428,
     "elapsedHours" : 540.46667,
@@ -5007,6 +5431,7 @@
     "velocityKmSec" : .268,
     "distanceTravelledKm" : 1306246
   }, {
+    "timeStampUtc" : _0x1b62fa(518),
     "elapsedSeconds" : 1949280,
     "elapsedMinutes" : 32488,
     "elapsedHours" : 541.46667,
@@ -5016,6 +5441,7 @@
     "velocityKmSec" : .267,
     "distanceTravelledKm" : 1307209
   }, {
+    "timeStampUtc" : _0x1b62fa(640),
     "elapsedSeconds" : 1952880,
     "elapsedMinutes" : 32548,
     "elapsedHours" : 542.46667,
@@ -5025,6 +5451,7 @@
     "velocityKmSec" : .267,
     "distanceTravelledKm" : 1308170
   }, {
+    "timeStampUtc" : _0x1b62fa(665),
     "elapsedSeconds" : 1956480,
     "elapsedMinutes" : 32608,
     "elapsedHours" : 543.46667,
@@ -5034,6 +5461,7 @@
     "velocityKmSec" : .266,
     "distanceTravelledKm" : 1309129
   }, {
+    "timeStampUtc" : _0x1b62fa(158),
     "elapsedSeconds" : 1960080,
     "elapsedMinutes" : 32668,
     "elapsedHours" : 544.46667,
@@ -5043,6 +5471,7 @@
     "velocityKmSec" : .266,
     "distanceTravelledKm" : 1310087
   }, {
+    "timeStampUtc" : _0x1b62fa(499),
     "elapsedSeconds" : 1963680,
     "elapsedMinutes" : 32728,
     "elapsedHours" : 545.46667,
@@ -5052,6 +5481,7 @@
     "velocityKmSec" : .265,
     "distanceTravelledKm" : 1311043
   }, {
+    "timeStampUtc" : _0x1b62fa(156),
     "elapsedSeconds" : 1967280,
     "elapsedMinutes" : 32788,
     "elapsedHours" : 546.46667,
@@ -5061,6 +5491,7 @@
     "velocityKmSec" : .265,
     "distanceTravelledKm" : 1311997
   }, {
+    "timeStampUtc" : _0x1b62fa(634),
     "elapsedSeconds" : 1970880,
     "elapsedMinutes" : 32848,
     "elapsedHours" : 547.46667,
@@ -5070,6 +5501,7 @@
     "velocityKmSec" : .264,
     "distanceTravelledKm" : 1312949
   }, {
+    "timeStampUtc" : _0x1b62fa(551),
     "elapsedSeconds" : 1974480,
     "elapsedMinutes" : 32908,
     "elapsedHours" : 548.46667,
@@ -5089,6 +5521,7 @@
     "velocityKmSec" : .263,
     "distanceTravelledKm" : 1314849
   }, {
+    "timeStampUtc" : _0x1b62fa(508),
     "elapsedSeconds" : 1981680,
     "elapsedMinutes" : 33028,
     "elapsedHours" : 550.46667,
@@ -5098,6 +5531,7 @@
     "velocityKmSec" : .263,
     "distanceTravelledKm" : 1315796
   }, {
+    "timeStampUtc" : _0x1b62fa(534),
     "elapsedSeconds" : 1985280,
     "elapsedMinutes" : 33088,
     "elapsedHours" : 551.46667,
@@ -5107,6 +5541,7 @@
     "velocityKmSec" : .262,
     "distanceTravelledKm" : 1316741
   }, {
+    "timeStampUtc" : _0x1b62fa(429),
     "elapsedSeconds" : 1988880,
     "elapsedMinutes" : 33148,
     "elapsedHours" : 552.46667,
@@ -5116,6 +5551,7 @@
     "velocityKmSec" : .262,
     "distanceTravelledKm" : 1317685
   }, {
+    "timeStampUtc" : _0x1b62fa(374),
     "elapsedSeconds" : 1992480,
     "elapsedMinutes" : 33208,
     "elapsedHours" : 553.46667,
@@ -5135,6 +5571,7 @@
     "velocityKmSec" : .261,
     "distanceTravelledKm" : 1319568
   }, {
+    "timeStampUtc" : _0x1b62fa(234),
     "elapsedSeconds" : 1999680,
     "elapsedMinutes" : 33328,
     "elapsedHours" : 555.46667,
@@ -5144,6 +5581,7 @@
     "velocityKmSec" : .261,
     "distanceTravelledKm" : 1320506
   }, {
+    "timeStampUtc" : _0x1b62fa(247),
     "elapsedSeconds" : 2003280,
     "elapsedMinutes" : 33388,
     "elapsedHours" : 556.46667,
@@ -5173,6 +5611,7 @@
     "velocityKmSec" : .259,
     "distanceTravelledKm" : 1323312
   }, {
+    "timeStampUtc" : _0x1b62fa(657),
     "elapsedSeconds" : 2014080,
     "elapsedMinutes" : 33568,
     "elapsedHours" : 559.46667,
@@ -5182,6 +5621,7 @@
     "velocityKmSec" : .259,
     "distanceTravelledKm" : 1324244
   }, {
+    "timeStampUtc" : _0x1b62fa(525),
     "elapsedSeconds" : 2017680,
     "elapsedMinutes" : 33628,
     "elapsedHours" : 560.46667,
@@ -5201,6 +5641,7 @@
     "velocityKmSec" : .258,
     "distanceTravelledKm" : 1326104
   }, {
+    "timeStampUtc" : _0x1b62fa(524),
     "elapsedSeconds" : 2024880,
     "elapsedMinutes" : 33748,
     "elapsedHours" : 562.46667,
@@ -5210,6 +5651,7 @@
     "velocityKmSec" : .257,
     "distanceTravelledKm" : 1327031
   }, {
+    "timeStampUtc" : _0x1b62fa(227),
     "elapsedSeconds" : 2028480,
     "elapsedMinutes" : 33808,
     "elapsedHours" : 563.46667,
@@ -5239,6 +5681,7 @@
     "velocityKmSec" : .256,
     "distanceTravelledKm" : 1329802
   }, {
+    "timeStampUtc" : _0x1b62fa(299),
     "elapsedSeconds" : 2039280,
     "elapsedMinutes" : 33988,
     "elapsedHours" : 566.46667,
@@ -5248,6 +5691,7 @@
     "velocityKmSec" : .255,
     "distanceTravelledKm" : 1330722
   }, {
+    "timeStampUtc" : _0x1b62fa(332),
     "elapsedSeconds" : 2042880,
     "elapsedMinutes" : 34048,
     "elapsedHours" : 567.46667,
@@ -5257,6 +5701,7 @@
     "velocityKmSec" : .255,
     "distanceTravelledKm" : 1331641
   }, {
+    "timeStampUtc" : _0x1b62fa(522),
     "elapsedSeconds" : 2046480,
     "elapsedMinutes" : 34108,
     "elapsedHours" : 568.46667,
@@ -5276,6 +5721,7 @@
     "velocityKmSec" : .254,
     "distanceTravelledKm" : 1333474
   }, {
+    "timeStampUtc" : _0x1b62fa(669),
     "elapsedSeconds" : 2053680,
     "elapsedMinutes" : 34228,
     "elapsedHours" : 570.46667,
@@ -5285,6 +5731,7 @@
     "velocityKmSec" : .254,
     "distanceTravelledKm" : 1334388
   }, {
+    "timeStampUtc" : _0x1b62fa(357),
     "elapsedSeconds" : 2057280,
     "elapsedMinutes" : 34288,
     "elapsedHours" : 571.46667,
@@ -5294,6 +5741,7 @@
     "velocityKmSec" : .253,
     "distanceTravelledKm" : 1335300
   }, {
+    "timeStampUtc" : _0x1b62fa(190),
     "elapsedSeconds" : 2060880,
     "elapsedMinutes" : 34348,
     "elapsedHours" : 572.46667,
@@ -5303,6 +5751,7 @@
     "velocityKmSec" : .253,
     "distanceTravelledKm" : 1336211
   }, {
+    "timeStampUtc" : _0x1b62fa(580),
     "elapsedSeconds" : 2064480,
     "elapsedMinutes" : 34408,
     "elapsedHours" : 573.46667,
@@ -5312,6 +5761,7 @@
     "velocityKmSec" : .252,
     "distanceTravelledKm" : 1337120
   }, {
+    "timeStampUtc" : _0x1b62fa(643),
     "elapsedSeconds" : 2068080,
     "elapsedMinutes" : 34468,
     "elapsedHours" : 574.46667,
@@ -5321,6 +5771,7 @@
     "velocityKmSec" : .252,
     "distanceTravelledKm" : 1338028
   }, {
+    "timeStampUtc" : _0x1b62fa(337),
     "elapsedSeconds" : 2071680,
     "elapsedMinutes" : 34528,
     "elapsedHours" : 575.46667,
@@ -5330,6 +5781,7 @@
     "velocityKmSec" : .251,
     "distanceTravelledKm" : 1338934
   }, {
+    "timeStampUtc" : _0x1b62fa(467),
     "elapsedSeconds" : 2075280,
     "elapsedMinutes" : 34588,
     "elapsedHours" : 576.46667,
@@ -5339,6 +5791,7 @@
     "velocityKmSec" : .251,
     "distanceTravelledKm" : 1339838
   }, {
+    "timeStampUtc" : _0x1b62fa(566),
     "elapsedSeconds" : 2078880,
     "elapsedMinutes" : 34648,
     "elapsedHours" : 577.46667,
@@ -5358,6 +5811,7 @@
     "velocityKmSec" : .25,
     "distanceTravelledKm" : 1341642
   }, {
+    "timeStampUtc" : _0x1b62fa(335),
     "elapsedSeconds" : 2086080,
     "elapsedMinutes" : 34768,
     "elapsedHours" : 579.46667,
@@ -5367,6 +5821,7 @@
     "velocityKmSec" : .25,
     "distanceTravelledKm" : 1342542
   }, {
+    "timeStampUtc" : _0x1b62fa(347),
     "elapsedSeconds" : 2089680,
     "elapsedMinutes" : 34828,
     "elapsedHours" : 580.46667,
@@ -5376,6 +5831,7 @@
     "velocityKmSec" : .249,
     "distanceTravelledKm" : 1343440
   }, {
+    "timeStampUtc" : _0x1b62fa(541),
     "elapsedSeconds" : 2093280,
     "elapsedMinutes" : 34888,
     "elapsedHours" : 581.46667,
@@ -5395,6 +5851,7 @@
     "velocityKmSec" : .248,
     "distanceTravelledKm" : 1345231
   }, {
+    "timeStampUtc" : _0x1b62fa(134),
     "elapsedSeconds" : 2100480,
     "elapsedMinutes" : 35008,
     "elapsedHours" : 583.46667,
@@ -5404,6 +5861,7 @@
     "velocityKmSec" : .248,
     "distanceTravelledKm" : 1346125
   }, {
+    "timeStampUtc" : _0x1b62fa(359),
     "elapsedSeconds" : 2104080,
     "elapsedMinutes" : 35068,
     "elapsedHours" : 584.46667,
@@ -5413,6 +5871,7 @@
     "velocityKmSec" : .248,
     "distanceTravelledKm" : 1347016
   }, {
+    "timeStampUtc" : _0x1b62fa(312),
     "elapsedSeconds" : 2107680,
     "elapsedMinutes" : 35128,
     "elapsedHours" : 585.46667,
@@ -5422,6 +5881,7 @@
     "velocityKmSec" : .247,
     "distanceTravelledKm" : 1347907
   }, {
+    "timeStampUtc" : _0x1b62fa(521),
     "elapsedSeconds" : 2111280,
     "elapsedMinutes" : 35188,
     "elapsedHours" : 586.46667,
@@ -5441,6 +5901,7 @@
     "velocityKmSec" : .246,
     "distanceTravelledKm" : 1349682
   }, {
+    "timeStampUtc" : _0x1b62fa(487),
     "elapsedSeconds" : 2118480,
     "elapsedMinutes" : 35308,
     "elapsedHours" : 588.46667,
@@ -5450,6 +5911,7 @@
     "velocityKmSec" : .246,
     "distanceTravelledKm" : 1350568
   }, {
+    "timeStampUtc" : _0x1b62fa(444),
     "elapsedSeconds" : 2122080,
     "elapsedMinutes" : 35368,
     "elapsedHours" : 589.46667,
@@ -5459,6 +5921,7 @@
     "velocityKmSec" : .245,
     "distanceTravelledKm" : 1351452
   }, {
+    "timeStampUtc" : _0x1b62fa(281),
     "elapsedSeconds" : 2125680,
     "elapsedMinutes" : 35428,
     "elapsedHours" : 590.46667,
@@ -5498,6 +5961,7 @@
     "velocityKmSec" : .244,
     "distanceTravelledKm" : 1354973
   }, {
+    "timeStampUtc" : _0x1b62fa(646),
     "elapsedSeconds" : 2140080,
     "elapsedMinutes" : 35668,
     "elapsedHours" : 594.46667,
@@ -5507,6 +5971,7 @@
     "velocityKmSec" : .243,
     "distanceTravelledKm" : 1355850
   }, {
+    "timeStampUtc" : _0x1b62fa(329),
     "elapsedSeconds" : 2143680,
     "elapsedMinutes" : 35728,
     "elapsedHours" : 595.46667,
@@ -5516,6 +5981,7 @@
     "velocityKmSec" : .243,
     "distanceTravelledKm" : 1356725
   }, {
+    "timeStampUtc" : _0x1b62fa(291),
     "elapsedSeconds" : 2147280,
     "elapsedMinutes" : 35788,
     "elapsedHours" : 596.46667,
@@ -5525,6 +5991,7 @@
     "velocityKmSec" : .242,
     "distanceTravelledKm" : 1357598
   }, {
+    "timeStampUtc" : _0x1b62fa(144),
     "elapsedSeconds" : 2150880,
     "elapsedMinutes" : 35848,
     "elapsedHours" : 597.46667,
@@ -5544,6 +6011,7 @@
     "velocityKmSec" : .242,
     "distanceTravelledKm" : 1359341
   }, {
+    "timeStampUtc" : _0x1b62fa(173),
     "elapsedSeconds" : 2158080,
     "elapsedMinutes" : 35968,
     "elapsedHours" : 599.46667,
@@ -5553,6 +6021,7 @@
     "velocityKmSec" : .241,
     "distanceTravelledKm" : 1360209
   }, {
+    "timeStampUtc" : _0x1b62fa(496),
     "elapsedSeconds" : 2161680,
     "elapsedMinutes" : 36028,
     "elapsedHours" : 600.46667,
@@ -5572,6 +6041,7 @@
     "velocityKmSec" : .24,
     "distanceTravelledKm" : 1361943
   }, {
+    "timeStampUtc" : _0x1b62fa(135),
     "elapsedSeconds" : 2168880,
     "elapsedMinutes" : 36148,
     "elapsedHours" : 602.46667,
@@ -5591,6 +6061,7 @@
     "velocityKmSec" : .24,
     "distanceTravelledKm" : 1363671
   }, {
+    "timeStampUtc" : _0x1b62fa(561),
     "elapsedSeconds" : 2176080,
     "elapsedMinutes" : 36268,
     "elapsedHours" : 604.46667,
@@ -5650,6 +6121,7 @@
     "velocityKmSec" : .237,
     "distanceTravelledKm" : 1368818
   }, {
+    "timeStampUtc" : _0x1b62fa(258),
     "elapsedSeconds" : 2197680,
     "elapsedMinutes" : 36628,
     "elapsedHours" : 610.46667,
@@ -5659,6 +6131,7 @@
     "velocityKmSec" : .237,
     "distanceTravelledKm" : 1369671
   }, {
+    "timeStampUtc" : _0x1b62fa(351),
     "elapsedSeconds" : 2201280,
     "elapsedMinutes" : 36688,
     "elapsedHours" : 611.46667,
@@ -5678,6 +6151,7 @@
     "velocityKmSec" : .236,
     "distanceTravelledKm" : 1371373
   }, {
+    "timeStampUtc" : _0x1b62fa(407),
     "elapsedSeconds" : 2208480,
     "elapsedMinutes" : 36808,
     "elapsedHours" : 613.46667,
@@ -5687,6 +6161,7 @@
     "velocityKmSec" : .236,
     "distanceTravelledKm" : 1372221
   }, {
+    "timeStampUtc" : _0x1b62fa(501),
     "elapsedSeconds" : 2212080,
     "elapsedMinutes" : 36868,
     "elapsedHours" : 614.46667,
@@ -5696,6 +6171,7 @@
     "velocityKmSec" : .235,
     "distanceTravelledKm" : 1373068
   }, {
+    "timeStampUtc" : _0x1b62fa(401),
     "elapsedSeconds" : 2215680,
     "elapsedMinutes" : 36928,
     "elapsedHours" : 615.46667,
@@ -5705,6 +6181,7 @@
     "velocityKmSec" : .235,
     "distanceTravelledKm" : 1373914
   }, {
+    "timeStampUtc" : _0x1b62fa(571),
     "elapsedSeconds" : 2219280,
     "elapsedMinutes" : 36988,
     "elapsedHours" : 616.46667,
@@ -5714,6 +6191,7 @@
     "velocityKmSec" : .234,
     "distanceTravelledKm" : 1374758
   }, {
+    "timeStampUtc" : _0x1b62fa(363),
     "elapsedSeconds" : 2222880,
     "elapsedMinutes" : 37048,
     "elapsedHours" : 617.46667,
@@ -5723,6 +6201,7 @@
     "velocityKmSec" : .234,
     "distanceTravelledKm" : 1375601
   }, {
+    "timeStampUtc" : _0x1b62fa(202),
     "elapsedSeconds" : 2226480,
     "elapsedMinutes" : 37108,
     "elapsedHours" : 618.46667,
@@ -5732,6 +6211,7 @@
     "velocityKmSec" : .234,
     "distanceTravelledKm" : 1376443
   }, {
+    "timeStampUtc" : _0x1b62fa(563),
     "elapsedSeconds" : 2230080,
     "elapsedMinutes" : 37168,
     "elapsedHours" : 619.46667,
@@ -5741,6 +6221,7 @@
     "velocityKmSec" : .233,
     "distanceTravelledKm" : 1377283
   }, {
+    "timeStampUtc" : _0x1b62fa(148),
     "elapsedSeconds" : 2233680,
     "elapsedMinutes" : 37228,
     "elapsedHours" : 620.46667,
@@ -5750,6 +6231,7 @@
     "velocityKmSec" : .233,
     "distanceTravelledKm" : 1378122
   }, {
+    "timeStampUtc" : _0x1b62fa(201),
     "elapsedSeconds" : 2237280,
     "elapsedMinutes" : 37288,
     "elapsedHours" : 621.46667,
@@ -5759,6 +6241,7 @@
     "velocityKmSec" : .232,
     "distanceTravelledKm" : 1378959
   }, {
+    "timeStampUtc" : _0x1b62fa(538),
     "elapsedSeconds" : 2240880,
     "elapsedMinutes" : 37348,
     "elapsedHours" : 622.46667,
@@ -5768,6 +6251,7 @@
     "velocityKmSec" : .232,
     "distanceTravelledKm" : 1379795
   }, {
+    "timeStampUtc" : _0x1b62fa(582),
     "elapsedSeconds" : 2244480,
     "elapsedMinutes" : 37408,
     "elapsedHours" : 623.46667,
@@ -5777,6 +6261,7 @@
     "velocityKmSec" : .232,
     "distanceTravelledKm" : 1380630
   }, {
+    "timeStampUtc" : _0x1b62fa(533),
     "elapsedSeconds" : 2248080,
     "elapsedMinutes" : 37468,
     "elapsedHours" : 624.46667,
@@ -5786,6 +6271,7 @@
     "velocityKmSec" : .231,
     "distanceTravelledKm" : 1381463
   }, {
+    "timeStampUtc" : _0x1b62fa(577),
     "elapsedSeconds" : 2251680,
     "elapsedMinutes" : 37528,
     "elapsedHours" : 625.46667,
@@ -5845,6 +6331,7 @@
     "velocityKmSec" : .229,
     "distanceTravelledKm" : 1386433
   }, {
+    "timeStampUtc" : _0x1b62fa(539),
     "elapsedSeconds" : 2273280,
     "elapsedMinutes" : 37888,
     "elapsedHours" : 631.46667,
@@ -5864,6 +6351,7 @@
     "velocityKmSec" : .228,
     "distanceTravelledKm" : 1388079
   }, {
+    "timeStampUtc" : _0x1b62fa(368),
     "elapsedSeconds" : 2280480,
     "elapsedMinutes" : 38008,
     "elapsedHours" : 633.46667,
@@ -5873,6 +6361,7 @@
     "velocityKmSec" : .228,
     "distanceTravelledKm" : 1388900
   }, {
+    "timeStampUtc" : _0x1b62fa(126),
     "elapsedSeconds" : 2284080,
     "elapsedMinutes" : 38068,
     "elapsedHours" : 634.46667,
@@ -5892,6 +6381,7 @@
     "velocityKmSec" : .227,
     "distanceTravelledKm" : 1390538
   }, {
+    "timeStampUtc" : _0x1b62fa(340),
     "elapsedSeconds" : 2291280,
     "elapsedMinutes" : 38188,
     "elapsedHours" : 636.46667,
@@ -5901,6 +6391,7 @@
     "velocityKmSec" : .227,
     "distanceTravelledKm" : 1391355
   }, {
+    "timeStampUtc" : _0x1b62fa(349),
     "elapsedSeconds" : 2294880,
     "elapsedMinutes" : 38248,
     "elapsedHours" : 637.46667,
@@ -5920,6 +6411,7 @@
     "velocityKmSec" : .226,
     "distanceTravelledKm" : 1392985
   }, {
+    "timeStampUtc" : _0x1b62fa(424),
     "elapsedSeconds" : 2302080,
     "elapsedMinutes" : 38368,
     "elapsedHours" : 639.46667,
@@ -5929,6 +6421,7 @@
     "velocityKmSec" : .226,
     "distanceTravelledKm" : 1393798
   }, {
+    "timeStampUtc" : _0x1b62fa(641),
     "elapsedSeconds" : 2305680,
     "elapsedMinutes" : 38428,
     "elapsedHours" : 640.46667,
@@ -5948,6 +6441,7 @@
     "velocityKmSec" : .225,
     "distanceTravelledKm" : 1395421
   }, {
+    "timeStampUtc" : _0x1b62fa(328),
     "elapsedSeconds" : 2312880,
     "elapsedMinutes" : 38548,
     "elapsedHours" : 642.46667,
@@ -5957,6 +6451,7 @@
     "velocityKmSec" : .225,
     "distanceTravelledKm" : 1396230
   }, {
+    "timeStampUtc" : _0x1b62fa(221),
     "elapsedSeconds" : 2316480,
     "elapsedMinutes" : 38608,
     "elapsedHours" : 643.46667,
@@ -5966,6 +6461,7 @@
     "velocityKmSec" : .224,
     "distanceTravelledKm" : 1397038
   }, {
+    "timeStampUtc" : _0x1b62fa(259),
     "elapsedSeconds" : 2320080,
     "elapsedMinutes" : 38668,
     "elapsedHours" : 644.46667,
@@ -5975,6 +6471,7 @@
     "velocityKmSec" : .224,
     "distanceTravelledKm" : 1397844
   }, {
+    "timeStampUtc" : _0x1b62fa(282),
     "elapsedSeconds" : 2323680,
     "elapsedMinutes" : 38728,
     "elapsedHours" : 645.46667,
@@ -5984,6 +6481,7 @@
     "velocityKmSec" : .224,
     "distanceTravelledKm" : 1398650
   }, {
+    "timeStampUtc" : _0x1b62fa(459),
     "elapsedSeconds" : 2327280,
     "elapsedMinutes" : 38788,
     "elapsedHours" : 646.46667,
@@ -5993,6 +6491,7 @@
     "velocityKmSec" : .223,
     "distanceTravelledKm" : 1399454
   }, {
+    "timeStampUtc" : _0x1b62fa(181),
     "elapsedSeconds" : 2330880,
     "elapsedMinutes" : 38848,
     "elapsedHours" : 647.46667,
@@ -6002,6 +6501,7 @@
     "velocityKmSec" : .223,
     "distanceTravelledKm" : 1400256
   }, {
+    "timeStampUtc" : _0x1b62fa(555),
     "elapsedSeconds" : 2334480,
     "elapsedMinutes" : 38908,
     "elapsedHours" : 648.46667,
@@ -6011,6 +6511,7 @@
     "velocityKmSec" : .222,
     "distanceTravelledKm" : 1401058
   }, {
+    "timeStampUtc" : _0x1b62fa(498),
     "elapsedSeconds" : 2338080,
     "elapsedMinutes" : 38968,
     "elapsedHours" : 649.46667,
@@ -6020,6 +6521,7 @@
     "velocityKmSec" : .222,
     "distanceTravelledKm" : 1401858
   }, {
+    "timeStampUtc" : _0x1b62fa(145),
     "elapsedSeconds" : 2341680,
     "elapsedMinutes" : 39028,
     "elapsedHours" : 650.46667,
@@ -6029,6 +6531,7 @@
     "velocityKmSec" : .222,
     "distanceTravelledKm" : 1402657
   }, {
+    "timeStampUtc" : _0x1b62fa(244),
     "elapsedSeconds" : 2345280,
     "elapsedMinutes" : 39088,
     "elapsedHours" : 651.46667,
@@ -6038,6 +6541,7 @@
     "velocityKmSec" : .221,
     "distanceTravelledKm" : 1403455
   }, {
+    "timeStampUtc" : _0x1b62fa(342),
     "elapsedSeconds" : 2348880,
     "elapsedMinutes" : 39148,
     "elapsedHours" : 652.46667,
@@ -6077,6 +6581,7 @@
     "velocityKmSec" : .22,
     "distanceTravelledKm" : 1406634
   }, {
+    "timeStampUtc" : _0x1b62fa(205),
     "elapsedSeconds" : 2363280,
     "elapsedMinutes" : 39388,
     "elapsedHours" : 656.46667,
@@ -6086,6 +6591,7 @@
     "velocityKmSec" : .22,
     "distanceTravelledKm" : 1407425
   }, {
+    "timeStampUtc" : _0x1b62fa(513),
     "elapsedSeconds" : 2366880,
     "elapsedMinutes" : 39448,
     "elapsedHours" : 657.46667,
@@ -6105,6 +6611,7 @@
     "velocityKmSec" : .219,
     "distanceTravelledKm" : 1409005
   }, {
+    "timeStampUtc" : _0x1b62fa(636),
     "elapsedSeconds" : 2374080,
     "elapsedMinutes" : 39568,
     "elapsedHours" : 659.46667,
@@ -6114,6 +6621,7 @@
     "velocityKmSec" : .219,
     "distanceTravelledKm" : 1409793
   }, {
+    "timeStampUtc" : _0x1b62fa(402),
     "elapsedSeconds" : 2377680,
     "elapsedMinutes" : 39628,
     "elapsedHours" : 660.46667,
@@ -6123,6 +6631,7 @@
     "velocityKmSec" : .218,
     "distanceTravelledKm" : 1410579
   }, {
+    "timeStampUtc" : _0x1b62fa(629),
     "elapsedSeconds" : 2381280,
     "elapsedMinutes" : 39688,
     "elapsedHours" : 661.46667,
@@ -6132,6 +6641,7 @@
     "velocityKmSec" : .218,
     "distanceTravelledKm" : 1411365
   }, {
+    "timeStampUtc" : _0x1b62fa(139),
     "elapsedSeconds" : 2384880,
     "elapsedMinutes" : 39748,
     "elapsedHours" : 662.46667,
@@ -6141,6 +6651,7 @@
     "velocityKmSec" : .218,
     "distanceTravelledKm" : 1412149
   }, {
+    "timeStampUtc" : _0x1b62fa(292),
     "elapsedSeconds" : 2388480,
     "elapsedMinutes" : 39808,
     "elapsedHours" : 663.46667,
@@ -6150,6 +6661,7 @@
     "velocityKmSec" : .217,
     "distanceTravelledKm" : 1412932
   }, {
+    "timeStampUtc" : _0x1b62fa(647),
     "elapsedSeconds" : 2392080,
     "elapsedMinutes" : 39868,
     "elapsedHours" : 664.46667,
@@ -6159,6 +6671,7 @@
     "velocityKmSec" : .217,
     "distanceTravelledKm" : 1413714
   }, {
+    "timeStampUtc" : _0x1b62fa(301),
     "elapsedSeconds" : 2395680,
     "elapsedMinutes" : 39928,
     "elapsedHours" : 665.46667,
@@ -6168,6 +6681,7 @@
     "velocityKmSec" : .217,
     "distanceTravelledKm" : 1414495
   }, {
+    "timeStampUtc" : _0x1b62fa(123),
     "elapsedSeconds" : 2399280,
     "elapsedMinutes" : 39988,
     "elapsedHours" : 666.46667,
@@ -6187,6 +6701,7 @@
     "velocityKmSec" : .216,
     "distanceTravelledKm" : 1416053
   }, {
+    "timeStampUtc" : _0x1b62fa(306),
     "elapsedSeconds" : 2406480,
     "elapsedMinutes" : 40108,
     "elapsedHours" : 668.46667,
@@ -6196,6 +6711,7 @@
     "velocityKmSec" : .216,
     "distanceTravelledKm" : 1416830
   }, {
+    "timeStampUtc" : _0x1b62fa(395),
     "elapsedSeconds" : 2410080,
     "elapsedMinutes" : 40168,
     "elapsedHours" : 669.46667,
@@ -6205,6 +6721,7 @@
     "velocityKmSec" : .215,
     "distanceTravelledKm" : 1417606
   }, {
+    "timeStampUtc" : _0x1b62fa(155),
     "elapsedSeconds" : 2413680,
     "elapsedMinutes" : 40228,
     "elapsedHours" : 670.46667,
@@ -6214,6 +6731,7 @@
     "velocityKmSec" : .215,
     "distanceTravelledKm" : 1418381
   }, {
+    "timeStampUtc" : _0x1b62fa(684),
     "elapsedSeconds" : 2417280,
     "elapsedMinutes" : 40288,
     "elapsedHours" : 671.46667,
@@ -6223,6 +6741,7 @@
     "velocityKmSec" : .215,
     "distanceTravelledKm" : 1419155
   }, {
+    "timeStampUtc" : _0x1b62fa(195),
     "elapsedSeconds" : 2420880,
     "elapsedMinutes" : 40348,
     "elapsedHours" : 672.46667,
@@ -6252,6 +6771,7 @@
     "velocityKmSec" : .214,
     "distanceTravelledKm" : 1421469
   }, {
+    "timeStampUtc" : _0x1b62fa(290),
     "elapsedSeconds" : 2431680,
     "elapsedMinutes" : 40528,
     "elapsedHours" : 675.46667,
@@ -6261,6 +6781,7 @@
     "velocityKmSec" : .214,
     "distanceTravelledKm" : 1422238
   }, {
+    "timeStampUtc" : _0x1b62fa(405),
     "elapsedSeconds" : 2435280,
     "elapsedMinutes" : 40588,
     "elapsedHours" : 676.46667,
@@ -6270,6 +6791,7 @@
     "velocityKmSec" : .213,
     "distanceTravelledKm" : 1423006
   }, {
+    "timeStampUtc" : _0x1b62fa(602),
     "elapsedSeconds" : 2438880,
     "elapsedMinutes" : 40648,
     "elapsedHours" : 677.46667,
@@ -6289,6 +6811,7 @@
     "velocityKmSec" : .213,
     "distanceTravelledKm" : 1424539
   }, {
+    "timeStampUtc" : _0x1b62fa(239),
     "elapsedSeconds" : 2446080,
     "elapsedMinutes" : 40768,
     "elapsedHours" : 679.46667,
@@ -6298,6 +6821,7 @@
     "velocityKmSec" : .212,
     "distanceTravelledKm" : 1425304
   }, {
+    "timeStampUtc" : _0x1b62fa(274),
     "elapsedSeconds" : 2449680,
     "elapsedMinutes" : 40828,
     "elapsedHours" : 680.46667,
@@ -6307,6 +6831,7 @@
     "velocityKmSec" : .212,
     "distanceTravelledKm" : 1426067
   }, {
+    "timeStampUtc" : _0x1b62fa(392),
     "elapsedSeconds" : 2453280,
     "elapsedMinutes" : 40888,
     "elapsedHours" : 681.46667,
@@ -6316,6 +6841,7 @@
     "velocityKmSec" : .212,
     "distanceTravelledKm" : 1426830
   }, {
+    "timeStampUtc" : _0x1b62fa(604),
     "elapsedSeconds" : 2456880,
     "elapsedMinutes" : 40948,
     "elapsedHours" : 682.46667,
@@ -6325,6 +6851,7 @@
     "velocityKmSec" : .211,
     "distanceTravelledKm" : 1427591
   }, {
+    "timeStampUtc" : _0x1b62fa(172),
     "elapsedSeconds" : 2460480,
     "elapsedMinutes" : 41008,
     "elapsedHours" : 683.46667,
@@ -6334,6 +6861,7 @@
     "velocityKmSec" : .211,
     "distanceTravelledKm" : 1428352
   }, {
+    "timeStampUtc" : _0x1b62fa(222),
     "elapsedSeconds" : 2464080,
     "elapsedMinutes" : 41068,
     "elapsedHours" : 684.46667,
@@ -6343,6 +6871,7 @@
     "velocityKmSec" : .211,
     "distanceTravelledKm" : 1429111
   }, {
+    "timeStampUtc" : _0x1b62fa(458),
     "elapsedSeconds" : 2467680,
     "elapsedMinutes" : 41128,
     "elapsedHours" : 685.46667,
@@ -6352,6 +6881,7 @@
     "velocityKmSec" : .21,
     "distanceTravelledKm" : 1429869
   }, {
+    "timeStampUtc" : _0x1b62fa(656),
     "elapsedSeconds" : 2471280,
     "elapsedMinutes" : 41188,
     "elapsedHours" : 686.46667,
@@ -6371,6 +6901,7 @@
     "velocityKmSec" : .21,
     "distanceTravelledKm" : 1431382
   }, {
+    "timeStampUtc" : _0x1b62fa(249),
     "elapsedSeconds" : 2478480,
     "elapsedMinutes" : 41308,
     "elapsedHours" : 688.46667,
@@ -6400,6 +6931,7 @@
     "velocityKmSec" : .209,
     "distanceTravelledKm" : 1433643
   }, {
+    "timeStampUtc" : _0x1b62fa(432),
     "elapsedSeconds" : 2489280,
     "elapsedMinutes" : 41488,
     "elapsedHours" : 691.46667,
@@ -6409,6 +6941,7 @@
     "velocityKmSec" : .209,
     "distanceTravelledKm" : 1434395
   }, {
+    "timeStampUtc" : _0x1b62fa(390),
     "elapsedSeconds" : 2492880,
     "elapsedMinutes" : 41548,
     "elapsedHours" : 692.46667,
@@ -6418,6 +6951,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1435146
   }, {
+    "timeStampUtc" : _0x1b62fa(175),
     "elapsedSeconds" : 2496480,
     "elapsedMinutes" : 41608,
     "elapsedHours" : 693.46667,
@@ -6427,6 +6961,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1435895
   }, {
+    "timeStampUtc" : _0x1b62fa(445),
     "elapsedSeconds" : 2500080,
     "elapsedMinutes" : 41668,
     "elapsedHours" : 694.46667,
@@ -6436,6 +6971,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1436644
   }, {
+    "timeStampUtc" : _0x1b62fa(384),
     "elapsedSeconds" : 2503680,
     "elapsedMinutes" : 41728,
     "elapsedHours" : 695.46667,
@@ -6445,6 +6981,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1437392
   }, {
+    "timeStampUtc" : _0x1b62fa(279),
     "elapsedSeconds" : 2507280,
     "elapsedMinutes" : 41788,
     "elapsedHours" : 696.46667,
@@ -6454,6 +6991,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1438140
   }, {
+    "timeStampUtc" : _0x1b62fa(408),
     "elapsedSeconds" : 2510880,
     "elapsedMinutes" : 41848,
     "elapsedHours" : 697.46667,
@@ -6463,6 +7001,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1438890
   }, {
+    "timeStampUtc" : _0x1b62fa(163),
     "elapsedSeconds" : 2514480,
     "elapsedMinutes" : 41908,
     "elapsedHours" : 698.46667,
@@ -6472,6 +7011,7 @@
     "velocityKmSec" : .208,
     "distanceTravelledKm" : 1439639
   }, {
+    "timeStampUtc" : _0x1b62fa(294),
     "elapsedSeconds" : 2518080,
     "elapsedMinutes" : 41968,
     "elapsedHours" : 699.46667,
@@ -6491,6 +7031,7 @@
     "velocityKmSec" : .207,
     "distanceTravelledKm" : 1441134
   }, {
+    "timeStampUtc" : _0x1b62fa(194),
     "elapsedSeconds" : 2525280,
     "elapsedMinutes" : 42088,
     "elapsedHours" : 701.46667,
@@ -6500,6 +7041,7 @@
     "velocityKmSec" : .207,
     "distanceTravelledKm" : 1441880
   }, {
+    "timeStampUtc" : _0x1b62fa(212),
     "elapsedSeconds" : 2528880,
     "elapsedMinutes" : 42148,
     "elapsedHours" : 702.46667,
@@ -6509,6 +7051,7 @@
     "velocityKmSec" : .207,
     "distanceTravelledKm" : 1442625
   }, {
+    "timeStampUtc" : _0x1b62fa(605),
     "elapsedSeconds" : 2532480,
     "elapsedMinutes" : 42208,
     "elapsedHours" : 703.46667,
@@ -6518,6 +7061,7 @@
     "velocityKmSec" : .207,
     "distanceTravelledKm" : 1443369
   }, {
+    "timeStampUtc" : _0x1b62fa(240),
     "elapsedSeconds" : 2536080,
     "elapsedMinutes" : 42268,
     "elapsedHours" : 704.46667,
@@ -6527,6 +7071,7 @@
     "velocityKmSec" : .206,
     "distanceTravelledKm" : 1444112
   }, {
+    "timeStampUtc" : _0x1b62fa(133),
     "elapsedSeconds" : 2539680,
     "elapsedMinutes" : 42328,
     "elapsedHours" : 705.46667,
@@ -6556,6 +7101,7 @@
     "velocityKmSec" : .205,
     "distanceTravelledKm" : 1446336
   }, {
+    "timeStampUtc" : _0x1b62fa(527),
     "elapsedSeconds" : 2550480,
     "elapsedMinutes" : 42508,
     "elapsedHours" : 708.46667,
@@ -6565,6 +7111,7 @@
     "velocityKmSec" : .205,
     "distanceTravelledKm" : 1447075
   }, {
+    "timeStampUtc" : _0x1b62fa(572),
     "elapsedSeconds" : 2554080,
     "elapsedMinutes" : 42568,
     "elapsedHours" : 709.46667,
@@ -6574,6 +7121,7 @@
     "velocityKmSec" : .205,
     "distanceTravelledKm" : 1447813
   }, {
+    "timeStampUtc" : _0x1b62fa(598),
     "elapsedSeconds" : 2557680,
     "elapsedMinutes" : 42628,
     "elapsedHours" : 710.46667,
@@ -6583,6 +7131,7 @@
     "velocityKmSec" : .205,
     "distanceTravelledKm" : 1448551
   }, {
+    "timeStampUtc" : _0x1b62fa(296),
     "elapsedSeconds" : 2561280,
     "elapsedMinutes" : 42688,
     "elapsedHours" : 711.46667,
@@ -6622,6 +7171,7 @@
     "velocityKmSec" : .204,
     "distanceTravelledKm" : 1451490
   }, {
+    "timeStampUtc" : _0x1b62fa(179),
     "elapsedSeconds" : 2575680,
     "elapsedMinutes" : 42928,
     "elapsedHours" : 715.46667,
@@ -6631,6 +7181,7 @@
     "velocityKmSec" : .203,
     "distanceTravelledKm" : 1452223
   }, {
+    "timeStampUtc" : _0x1b62fa(381),
     "elapsedSeconds" : 2579280,
     "elapsedMinutes" : 42988,
     "elapsedHours" : 716.46667,
@@ -6640,6 +7191,7 @@
     "velocityKmSec" : .203,
     "distanceTravelledKm" : 1452955
   }, {
+    "timeStampUtc" : _0x1b62fa(576),
     "elapsedSeconds" : 2582880,
     "elapsedMinutes" : 43048,
     "elapsedHours" : 717.46667,
@@ -6649,6 +7201,7 @@
     "velocityKmSec" : .203,
     "distanceTravelledKm" : 1453685
   }, {
+    "timeStampUtc" : _0x1b62fa(397),
     "elapsedSeconds" : 2586480,
     "elapsedMinutes" : 43108,
     "elapsedHours" : 718.46667,
@@ -6658,6 +7211,7 @@
     "velocityKmSec" : .203,
     "distanceTravelledKm" : 1454415
   }, {
+    "timeStampUtc" : _0x1b62fa(348),
     "elapsedSeconds" : 2590080,
     "elapsedMinutes" : 43168,
     "elapsedHours" : 719.46667,
