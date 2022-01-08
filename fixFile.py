@@ -1,3 +1,5 @@
+# parses original flight data json into a usable format
+
 newData = ''
 
 with open('originalFlightData.json', 'r') as file:
