@@ -3,9 +3,8 @@ import json
 import numpy
 import os.path
 from datetime import datetime
-import pytz
 
-finalDistance = 1446331.1322
+finalDistance = 1446331.6
 
 class essentialFileNotFound(Exception):
     def __str__(self):
@@ -25,6 +24,7 @@ def closest(jList, current):
     i = (numpy.abs(arrary - current)).argmin()
     return (arrary[i], i)
 
+# simple functions to convert km and celcius
 def convertKm(km):
     return km * 0.621371
 
@@ -37,7 +37,7 @@ apiData = apiData.json()['currentState']
 
 # grab launch timestamp from API json data and calculate seconds elapsed since launch
 launchTime = datetime.fromisoformat(apiData['launchDateTimeString'][:-1])
-elapsed = (datetime.now() - launchTime).total_seconds()
+elapsed = (datetime.utcnow() - launchTime).total_seconds()
 
 # read flight data json file
 with open('fixedData.json', 'r') as file:
@@ -46,10 +46,11 @@ with open('fixedData.json', 'r') as file:
 # list of all elapsedSeconds values from flightData
 secondsList = [i['elapsedSeconds'] for i in flightData]
 
+# closest data points on local json file
 closestIndex = closest(secondsList, elapsed)[1]
 closestSeconds = closest(secondsList, elapsed)[0]
-closestBatch = flightData[closestIndex]
 
+# calculate exact distance & speed
 if 0 < closestIndex < len(flightData) - 1:
     if elapsed < closestSeconds:
         interSeconds = closestSeconds - secondsList[closestIndex-1]
@@ -59,8 +60,8 @@ if 0 < closestIndex < len(flightData) - 1:
         interDistance *= percentage
         distance = flightData[closestIndex-1]['distanceTravelledKm'] + interDistance
         interSpeed = flightData[closestIndex-1]['velocityKmSec'] - flightData[closestIndex]['velocityKmSec']
-        interSpeed *= 1 - percentage
-        speed = flightData[closestIndex]['velocityKmSec'] + interSpeed
+        interSpeed *= percentage
+        speed = flightData[closestIndex-1]['velocityKmSec'] - interSpeed
     elif elapsed > closestSeconds:
         interSeconds = secondsList[closestIndex+1] - closestSeconds
         x = elapsed - closestSeconds
@@ -68,8 +69,8 @@ if 0 < closestIndex < len(flightData) - 1:
         interDistance = flightData[closestIndex+1]['distanceTravelledKm'] - flightData[closestIndex]['distanceTravelledKm']
         interDistance *= percentage
         interSpeed = flightData[closestIndex]['velocityKmSec'] - flightData[closestIndex+1]['velocityKmSec']
-        interSpeed *= 1 - percentage
-        speed = flightData[closestIndex+1]['velocityKmSec'] + interSpeed
+        interSpeed *= percentage
+        speed = flightData[closestIndex]['velocityKmSec'] - interSpeed
         distance = flightData[closestIndex]['distanceTravelledKm'] + interDistance
     else:
         distance = flightData[closestIndex]['distanceTravelledKm']
@@ -78,6 +79,7 @@ else:
     distance = flightData[closestIndex]['distanceTravelledKm']
     speed = flightData[closestIndex]['velocityKmSec']
 
+# initialize/format final values for print statements
 l2Distance = finalDistance - distance
 l2Distance = round( convertKm(l2Distance), 1)
 percentComplete = round( (distance/finalDistance) * 100, 4)
@@ -88,8 +90,16 @@ hotB = round( convertC(apiData['tempWarmSide2C']) )
 coldC = round( convertC(apiData['tempCoolSide1C']) )
 coldD = round( convertC(apiData['tempCoolSide2C']) )
 
-elapsedTime = (datetime.now() - launchTime)
-#elapsedTime = elapsedTime.strftime("%d days, %H hours, %M minutes, %S seconds")
+# formats time difference for use in print statement
+elapsedTime = str(datetime.utcnow() - launchTime)
+elapsedTime = elapsedTime.rsplit('.')[0]
+times = elapsedTime.split(':')
+times[0] += ' hours,'
+times[1] += ' minutes, and'
+times[2] += ' seconds'
+times = [i.removeprefix('0') for i in times]
+elapsedTime = ' '.join(times)
+
 print('The James Webb Space Telescope...\n')
 print(f'\t• was launched {elapsedTime} ago')
 print(f'\t• is {distance} miles away from Earth')
